@@ -1,0 +1,233 @@
+HOGP Boot Host PTS test case results
+
+Tested on: 11-04-2016
+PTS version: 6.5
+SW version: m756
+
+Notes:
+	tested using ble_profiles/hogp_host application
+
+HOGP PICS
+-------------------------------------------------------------------------------
+Item			T/F	Description
+-------------------------------------------------------------------------------
+TSPC_HOGP_1_1		False	HID Device (Server)
+TSPC_HOGP_1_2		False	Report Host (Client)
+TSPC_HOGP_1_3		True	Boot Host (Client)
+TSPC_HOGP_2_1		False	Profile supported over BR/EDR
+TSPC_HOGP_2_2		True	Profile supported over LE
+TSPC_HOGP_3_1		False	Implements HID Service
+TSPC_HOGP_3_2		False	Multiple Service instances – HID Service
+TSPC_HOGP_3_3		False	Implements Battery Service
+TSPC_HOGP_3_4		False	Implements Device Information Service
+TSPC_HOGP_3_5		False	Implements Scan Parameters Service
+TSPC_HOGP_4_1		False	Include HID Service UUID in AD in GAP Discoverable Mode
+TSPC_HOGP_4_2		False	Include Local Name in AD or Scan Response Data
+TSPC_HOGP_4_3		False	Include Appearance in AD or Scan Response Data
+TSPC_HOGP_4_4		False	Support Device Information Service characteristic: PnP ID
+TSPC_HOGP_4_5		False	Report characteristic
+TSPC_HOGP_4_6		False	Non-HID Service characteristic described within Report Map characteristic
+TSPC_HOGP_4_7		False	External Report Reference characteristic descriptor for Report Map characteristic
+TSPC_HOGP_5_1		False	Peripheral
+TSPC_HOGP_5_2		False	Directed Connectable Mode
+TSPC_HOGP_5_3		False	Undirected Connectable Mode
+TSPC_HOGP_5_4		False	Bondable mode (peripheral)
+TSPC_HOGP_5_5		False	Bonding procedure (peripheral)
+TSPC_HOGP_5_6		False	LE Security Mode 1 (peripheral)
+TSPC_HOGP_6_1		False	SM 2.3.1
+TSPC_HOGP_6_2		False	Unauthenticated no MITM protection
+TSPC_HOGP_6_3		False	Authenticated MITM protection
+TSPC_HOGP_7_1		False	HID Service
+TSPC_HOGP_7_2		False	Battery Service
+TSPC_HOGP_7_3		False	Device Information Service
+TSPC_HOGP_7_4		False	Scan Parameters Service
+TSPC_HOGP_7a_1		False	Scan Parameters Profile – Scan Client
+TSPC_HOGP_8_1		True	HID Service
+TSPC_HOGP_8_2		False	Battery Service
+TSPC_HOGP_8_3		False	Device Information Service
+TSPC_HOGP_9_1		False	Discover HID Service
+TSPC_HOGP_9_2		False	Discover Battery Service
+TSPC_HOGP_9_3		False	Discover Device Information Service
+TSPC_HOGP_9_4		False	Discover Scan Parameters Service
+TSPC_HOGP_9_5		False	Discover HID Service characteristic : Report Map
+TSPC_HOGP_9_6		False	Discover HID Service characteristic: Report Map – External Report Reference characteristic descriptor
+TSPC_HOGP_9_7		False	Discover HID Service characteristic: Report
+TSPC_HOGP_9_8		False	Discover HID Service characteristic: Report – Client Characteristic Configuration characteristic descriptor
+TSPC_HOGP_9_9		False	Discover HID Service characteristic: Report – Report Reference characteristic descriptor
+TSPC_HOGP_9_10		False	Discover HID Service characteristic: HID Information
+TSPC_HOGP_9_11		False	Discover HID Service characteristic: HID Control Point
+TSPC_HOGP_9_12		False	Discover HID Service characteristic: Protocol Mode
+TSPC_HOGP_9_13		False	Discover Battery Service characteristic: Battery Level
+TSPC_HOGP_9_14		False	Discover Battery Service characteristic: Battery Level – Client Characteristic Configuration characteristic descriptor
+TSPC_HOGP_9_15		False	Discover Device Information Service characteristic: PnP ID
+TSPC_HOGP_9_16		False	Discover non-HID Service characteristic: Report Reference characteristic descriptor
+TSPC_HOGP_10_1		True	Discover HID Service
+TSPC_HOGP_10_2		False	Discover Battery Service
+TSPC_HOGP_10_3		False	Discover Device Information Service
+TSPC_HOGP_10_4		True	Discover HID Service characteristic: Protocol Mode
+TSPC_HOGP_10_5		True	Discover HID Service characteristic: Boot Keyboard Input Report
+TSPC_HOGP_10_6		True	Discover HID Service characteristic: Boot Keyboard Input Report – Client Characteristic Configuration characteristic descriptor
+TSPC_HOGP_10_7		True	Discover HID Service characteristic: Boot Keyboard Output Report
+TSPC_HOGP_10_8		True	Discover HID Service characteristic: Boot Mouse Input Report
+TSPC_HOGP_10_9		True	Discover HID Service characteristic: Boot Mouse Input Report – Client Characteristic Configuration characteristic descriptor
+TSPC_HOGP_10_10		False	Discover Battery Service characteristic: Battery Level
+TSPC_HOGP_10_11		False	Discover Battery Service characteristic: Battery Level – Client Characteristic Configuration characteristic descriptor
+TSPC_HOGP_10_12		False	Discover Device Information Service characteristic: PnP ID
+TSPC_HOGP_11_1		False	Read Report Map characteristic
+TSPC_HOGP_11_2		False	Read Report Map characteristic: External Report Reference characteristic descriptor
+TSPC_HOGP_11_3		False	Read Report characteristic: Report Type: Input Report
+TSPC_HOGP_11_4		False	Write Report characteristic: Report Type: Input Report
+TSPC_HOGP_11_5		False	Read Report characteristic: Report Type: Output Report
+TSPC_HOGP_11_6		False	Write HID Report characteristic: Report Type: Output Report
+TSPC_HOGP_11_7		False	Read HID Report characteristic: Report Type: Feature Report
+TSPC_HOGP_11_8		False	Write HID Report characteristic: Report Type: Feature Report
+TSPC_HOGP_11_9		False	Read Report characteristic: Report Reference characteristic descriptor
+TSPC_HOGP_11_10		False	Read Report characteristic: Input Report: Client Characteristic Configuration characteristic descriptor
+TSPC_HOGP_11_11		False	Report characteristic configuration: enable notifications
+TSPC_HOGP_11_11a	False	Report characteristic configuration: disable notifications
+TSPC_HOGP_11_12		False	Read HID Information characteristic
+TSPC_HOGP_11_13		False	Suspend State
+TSPC_HOGP_11_14		False	Exit Suspend State
+TSPC_HOGP_11_15		False	Write HID Control Point characteristic: Suspend command
+TSPC_HOGP_11_16		False	Write HID Control Point characteristic: Exit Suspend command
+TSPC_HOGP_11_17		False	Read Protocol Mode characteristic: Get Protocol command
+TSPC_HOGP_11_18		False	Write Protocol Mode characteristic: Set Report Protocol Mode command
+TSPC_HOGP_11_19		False	Read Battery Level characteristic
+TSPC_HOGP_11_20		False	Read Battery Level characteristic: Client Characteristic Configuration characteristic descriptor
+TSPC_HOGP_11_21		False	Battery Level characteristic configuration: enable notifications
+TSPC_HOGP_11_21a	False	Battery Level characteristic configuration: disable notifications
+TSPC_HOGP_11_22		False	Read non-HID Service characteristic: Report Reference characteristic descriptor
+TSPC_HOGP_11_23		False	Read PnP ID characteristic
+TSPC_HOGP_11_24		False	Notify Report characteristic
+TSPC_HOGP_11_25		False	Notify Battery Level characteristic
+TSPC_HOGP_11_26		False	Report Characteristic: Input Report type supported
+TSPC_HOGP_11_27		False	Report Characteristic: Output Report type supported
+TSPC_HOGP_11_28		False	Report Characteristic: Feature Report type supported
+TSPC_HOGP_12_1		True	Read Protocol Mode characteristic: Get Protocol Mode command
+TSPC_HOGP_12_2		True	Write Protocol Mode characteristic: Set Boot Protocol Mode command
+TSPC_HOGP_12_3		True	Read HID Service characteristic: Boot Keyboard Input Report
+TSPC_HOGP_12_4		True	Write HID Service characteristic: Boot Keyboard Input Report
+TSPC_HOGP_12_5		True	Read Client Characteristic Configuration characteristic descriptor for Boot Keyboard Input Report
+TSPC_HOGP_12_6		True	Boot Keyboard Input Report characteristic configuration: enable notifications
+TSPC_HOGP_12_6a		True	Boot Keyboard Input Report characteristic configuration: disable notifications
+TSPC_HOGP_12_7		True	Read HID Service characteristic: Boot Keyboard Output Report
+TSPC_HOGP_12_8		True	Write HID Service characteristic: Boot Keyboard Output Report
+TSPC_HOGP_12_9		True	Read HID Service characteristic: Boot Mouse Input Report
+TSPC_HOGP_12_10		True	Write HID Service characteristic: Boot Mouse Input Report
+TSPC_HOGP_12_11		True	Read Client Characteristic Configuration characteristic descriptor for Boot Mouse Input Report
+TSPC_HOGP_12_12		True	Boot Mouse Input Report characteristic configuration: enable notifications
+TSPC_HOGP_12_12a	True	Boot Mouse Input Report characteristic configuration: disable notifications
+TSPC_HOGP_12_13		True	Notify Boot Keyboard Input Report characteristic
+TSPC_HOGP_12_14		True	Notify Boot Mouse Input Report characteristic
+TSPC_HOGP_12_15		False	Read Battery Level characteristic
+TSPC_HOGP_12_16		False	Read Battery Level characteristic: Client Characteristic Configuration characteristic descriptor
+TSPC_HOGP_12_17		False	Battery Level characteristic configuration: enable notifications
+TSPC_HOGP_12_17a	False	Battery Level characteristic configuration: disable notifications
+TSPC_HOGP_12_18		False	Notify Battery Level characteristic
+TSPC_HOGP_12_19		False	Read PnP ID characteristic
+TSPC_HOGP_13_1		False	Attribute Protocol supported over LE-transport
+TSPC_HOGP_13_2		False	Generic Attribute Profile Client
+TSPC_HOGP_13_3		False	Discover All Primary Services
+TSPC_HOGP_13_4		False	Discover Primary Services by Service UUID
+TSPC_HOGP_13_5		False	Find Included Services
+TSPC_HOGP_13_6		False	Discover All Characteristics of a Service
+TSPC_HOGP_13_7		False	Discover Characteristics by UUID
+TSPC_HOGP_13_8		False	Discover All Characteristic Descriptors
+TSPC_HOGP_13_9		False	Read Characteristic Value
+TSPC_HOGP_13_10		False	Read using Characteristic UUID
+TSPC_HOGP_13_11		False	Read Long Characteristic Value
+TSPC_HOGP_13_12		False	Read Characteristic Descriptors
+TSPC_HOGP_13_13		False	Write without Response
+TSPC_HOGP_13_14		False	Write Characteristic Value
+TSPC_HOGP_13_15		False	Write Characteristic Descriptors
+TSPC_HOGP_13_16		False	Notifications
+TSPC_HOGP_13_17		False	Exchange MTU
+TSPC_HOGP_14_1		False	Attribute Protocol supported over LE-transport
+TSPC_HOGP_14_2		False	Generic Attribute Profile Client
+TSPC_HOGP_14_3		False	Discover All Primary Services
+TSPC_HOGP_14_4		False	Discover Primary Services by Service UUID
+TSPC_HOGP_14_5		False	Discover All Characteristics of a Service
+TSPC_HOGP_14_6		False	Discover Characteristics by UUID
+TSPC_HOGP_14_7		False	Discover All Characteristic Descriptors
+TSPC_HOGP_14_8		False	Read Characteristic Value
+TSPC_HOGP_14_9		False	Read using Characteristic UUID
+TSPC_HOGP_14_10		False	Read Characteristic Descriptors
+TSPC_HOGP_14_11		False	Write without Response
+TSPC_HOGP_14_12		False	Write Characteristic Value
+TSPC_HOGP_14_13		False	Write Characteristic Descriptors
+TSPC_HOGP_14_14		False	Notifications
+TSPC_HOGP_15_1		True	Central
+TSPC_HOGP_15_2		True	LE Security Mode 1 (central)
+TSPC_HOGP_16_1		True	No Security Requirements (LE Security Level 1, No Security)
+TSPC_HOGP_16_2		True	Unauthenticated no MITM protection (LE Security Level 2, Just Works)
+TSPC_HOGP_16_3		False	Authenticated MITM protection (LE Security Level 3, N/Akey)
+-------------------------------------------------------------------------------
+
+HOGP PTS test case results
+-------------------------------------------------------------------------------
+Test case		Result	Notes
+-------------------------------------------------------------------------------
+TC_HGDS_HH_BV_01_I	PASS
+TC_HGDS_HH_BV_02_I	N/A
+TC_HGDS_HH_BV_03_I	N/A
+TC_HGDS_HD_BV_01_I	N/A
+TC_HGDS_HD_BV_02_I	N/A
+TC_HGDR_RH_BV_01_I	N/A
+TC_HGDC_RH_BV_01_I	N/A
+TC_HGDC_RH_BV_02_I	N/A
+TC_HGDC_RH_BV_03_I	N/A
+TC_HGDC_RH_BV_04_I	N/A
+TC_HGDC_RH_BV_05_I	N/A
+TC_HGDC_RH_BV_06_I	N/A
+TC_HGDC_RH_BV_07_I	N/A
+TC_HGDC_HH_BV_08_I	PASS
+TC_HGDC_HH_BV_14_I	N/A
+TC_HGDC_HH_BV_15_I	N/A
+TC_HGDC_HH_BV_16_I	N/A
+TC_HGDC_BH_BV_09_I	PASS
+TC_HGDC_BH_BV_10_I	PASS
+TC_HGDC_BH_BV_11_I	PASS
+TC_HGDC_BH_BV_12_I	PASS
+TC_HGDC_BH_BV_13_I	PASS
+TC_HGRF_RH_BV_01_I	N/A
+TC_HGRF_RH_BV_02_I	N/A
+TC_HGRF_RH_BV_03_I	N/A
+TC_HGRF_RH_BV_04_I	N/A
+TC_HGRF_RH_BV_05_I	N/A
+TC_HGRF_RH_BV_19_I	N/A
+TC_HGRF_RH_BV_06_I	N/A
+TC_HGRF_RH_BV_07_I	N/A
+TC_HGRF_RH_BV_08_I	N/A
+TC_HGRF_RH_BV_09_I	N/A
+TC_HGRF_HH_BV_10_I	N/A
+TC_HGRF_HH_BV_11_I	N/A
+TC_HGRF_HH_BV_12_I	N/A
+TC_HGRF_HH_BV_18_I	PASS
+TC_HGRF_BH_BV_13_I	PASS
+TC_HGRF_BH_BV_14_I	PASS
+TC_HGRF_BH_BV_15_I	PASS
+TC_HGRF_BH_BV_16_I	PASS
+TC_HGRF_BH_BV_17_I	PASS
+TC_HGWF_RH_BV_01_I	N/A
+TC_HGWF_RH_BV_02_I	N/A
+TC_HGWF_RH_BV_03_I	N/A
+TC_HGWF_RH_BV_04_I	N/A
+TC_HGWF_RH_BV_05_I	N/A
+TC_HGWF_RH_BV_06_I	N/A
+TC_HGWF_RH_BV_07_I	N/A
+TC_HGWF_BH_BV_08_I	PASS
+TC_HGWF_BH_BV_09_I	PASS
+TC_HGWF_BH_BV_10_I	PASS
+TC_HGWF_BH_BV_11_I	PASS
+TC_HGCF_RH_BV_01_I	N/A
+TC_HGCF_RH_BV_02_I	N/A
+TC_HGCF_BH_BV_03_I	PASS
+TC_HGCF_BH_BV_04_I	PASS
+TC_HGCF_BH_BV_05_I	PASS
+TC_HGCF_BH_BV_06_I	PASS
+TC_HGNF_RH_BV_01_I	N/A
+TC_HGNF_RH_BI_01_I	N/A
+TC_HGNF_RH_BI_02_I	N/A
+TC_HGNF_BH_BV_02_I	PASS
+TC_HGNF_BH_BV_03_I	PASS
+TC_HGNF_BH_BI_03_I	PASS

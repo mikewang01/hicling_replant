@@ -1,0 +1,2479 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ARCHIVE>
+  <VERSION>2.0</VERSION>
+  <PicsPixit>Test Case Started: HOGP v. 6.5.0.35, TC_HGCF_BH_BV_03_I started on Monday, April 11, 2016, 09:10:34
+
+PICS VALUES:
+
+TSPC_HOGP_1_1 FALSE
+TSPC_HOGP_1_2 FALSE
+TSPC_HOGP_1_3 TRUE
+TSPC_HOGP_2_1 FALSE
+TSPC_HOGP_2_2 TRUE
+TSPC_HOGP_3_1 FALSE
+TSPC_HOGP_3_2 FALSE
+TSPC_HOGP_3_3 FALSE
+TSPC_HOGP_3_4 FALSE
+TSPC_HOGP_3_5 FALSE
+TSPC_HOGP_4_1 FALSE
+TSPC_HOGP_4_2 FALSE
+TSPC_HOGP_4_3 FALSE
+TSPC_HOGP_4_4 FALSE
+TSPC_HOGP_4_5 FALSE
+TSPC_HOGP_4_6 FALSE
+TSPC_HOGP_4_7 FALSE
+TSPC_HOGP_5_1 FALSE
+TSPC_HOGP_5_2 FALSE
+TSPC_HOGP_5_3 FALSE
+TSPC_HOGP_5_4 FALSE
+TSPC_HOGP_5_5 FALSE
+TSPC_HOGP_5_6 FALSE
+TSPC_HOGP_6_1 FALSE
+TSPC_HOGP_6_2 FALSE
+TSPC_HOGP_6_3 FALSE
+TSPC_HOGP_7_1 FALSE
+TSPC_HOGP_7_2 FALSE
+TSPC_HOGP_7_3 FALSE
+TSPC_HOGP_7_4 FALSE
+TSPC_HOGP_7a_1 FALSE
+TSPC_HOGP_8_1 TRUE
+TSPC_HOGP_8_2 FALSE
+TSPC_HOGP_8_3 FALSE
+TSPC_HOGP_9_1 FALSE
+TSPC_HOGP_9_2 FALSE
+TSPC_HOGP_9_3 FALSE
+TSPC_HOGP_9_4 FALSE
+TSPC_HOGP_9_5 FALSE
+TSPC_HOGP_9_6 FALSE
+TSPC_HOGP_9_7 FALSE
+TSPC_HOGP_9_8 FALSE
+TSPC_HOGP_9_9 FALSE
+TSPC_HOGP_9_10 FALSE
+TSPC_HOGP_9_11 FALSE
+TSPC_HOGP_9_12 FALSE
+TSPC_HOGP_9_13 FALSE
+TSPC_HOGP_9_14 FALSE
+TSPC_HOGP_9_15 FALSE
+TSPC_HOGP_9_16 FALSE
+TSPC_HOGP_10_1 TRUE
+TSPC_HOGP_10_2 FALSE
+TSPC_HOGP_10_3 FALSE
+TSPC_HOGP_10_4 TRUE
+TSPC_HOGP_10_5 TRUE
+TSPC_HOGP_10_6 TRUE
+TSPC_HOGP_10_7 TRUE
+TSPC_HOGP_10_8 TRUE
+TSPC_HOGP_10_9 TRUE
+TSPC_HOGP_10_10 FALSE
+TSPC_HOGP_10_11 FALSE
+TSPC_HOGP_10_12 FALSE
+TSPC_HOGP_11_1 FALSE
+TSPC_HOGP_11_2 FALSE
+TSPC_HOGP_11_3 FALSE
+TSPC_HOGP_11_4 FALSE
+TSPC_HOGP_11_5 FALSE
+TSPC_HOGP_11_6 FALSE
+TSPC_HOGP_11_7 FALSE
+TSPC_HOGP_11_8 FALSE
+TSPC_HOGP_11_9 FALSE
+TSPC_HOGP_11_10 FALSE
+TSPC_HOGP_11_11 FALSE
+TSPC_HOGP_11_11a FALSE
+TSPC_HOGP_11_12 FALSE
+TSPC_HOGP_11_13 FALSE
+TSPC_HOGP_11_14 FALSE
+TSPC_HOGP_11_15 FALSE
+TSPC_HOGP_11_16 FALSE
+TSPC_HOGP_11_17 FALSE
+TSPC_HOGP_11_18 FALSE
+TSPC_HOGP_11_19 FALSE
+TSPC_HOGP_11_20 FALSE
+TSPC_HOGP_11_21 FALSE
+TSPC_HOGP_11_21a FALSE
+TSPC_HOGP_11_22 FALSE
+TSPC_HOGP_11_23 FALSE
+TSPC_HOGP_11_24 FALSE
+TSPC_HOGP_11_25 FALSE
+TSPC_HOGP_11_26 FALSE
+TSPC_HOGP_11_27 FALSE
+TSPC_HOGP_11_28 FALSE
+TSPC_HOGP_12_1 TRUE
+TSPC_HOGP_12_2 TRUE
+TSPC_HOGP_12_3 TRUE
+TSPC_HOGP_12_4 TRUE
+TSPC_HOGP_12_5 TRUE
+TSPC_HOGP_12_6 TRUE
+TSPC_HOGP_12_6a TRUE
+TSPC_HOGP_12_7 TRUE
+TSPC_HOGP_12_8 TRUE
+TSPC_HOGP_12_9 TRUE
+TSPC_HOGP_12_10 TRUE
+TSPC_HOGP_12_11 TRUE
+TSPC_HOGP_12_12 TRUE
+TSPC_HOGP_12_12a TRUE
+TSPC_HOGP_12_13 TRUE
+TSPC_HOGP_12_14 TRUE
+TSPC_HOGP_12_15 FALSE
+TSPC_HOGP_12_16 FALSE
+TSPC_HOGP_12_17 FALSE
+TSPC_HOGP_12_17a FALSE
+TSPC_HOGP_12_18 FALSE
+TSPC_HOGP_12_19 FALSE
+TSPC_HOGP_13_1 FALSE
+TSPC_HOGP_13_2 FALSE
+TSPC_HOGP_13_3 FALSE
+TSPC_HOGP_13_4 FALSE
+TSPC_HOGP_13_5 FALSE
+TSPC_HOGP_13_6 FALSE
+TSPC_HOGP_13_7 FALSE
+TSPC_HOGP_13_8 FALSE
+TSPC_HOGP_13_9 FALSE
+TSPC_HOGP_13_10 FALSE
+TSPC_HOGP_13_11 FALSE
+TSPC_HOGP_13_12 FALSE
+TSPC_HOGP_13_13 FALSE
+TSPC_HOGP_13_14 FALSE
+TSPC_HOGP_13_15 FALSE
+TSPC_HOGP_13_16 FALSE
+TSPC_HOGP_13_17 FALSE
+TSPC_HOGP_14_1 FALSE
+TSPC_HOGP_14_2 FALSE
+TSPC_HOGP_14_3 FALSE
+TSPC_HOGP_14_4 FALSE
+TSPC_HOGP_14_5 FALSE
+TSPC_HOGP_14_6 FALSE
+TSPC_HOGP_14_7 FALSE
+TSPC_HOGP_14_8 FALSE
+TSPC_HOGP_14_9 FALSE
+TSPC_HOGP_14_10 FALSE
+TSPC_HOGP_14_11 FALSE
+TSPC_HOGP_14_12 FALSE
+TSPC_HOGP_14_13 FALSE
+TSPC_HOGP_14_14 FALSE
+TSPC_HOGP_15_1 TRUE
+TSPC_HOGP_15_2 TRUE
+TSPC_HOGP_16_1 TRUE
+TSPC_HOGP_16_2 TRUE
+TSPC_HOGP_16_3 FALSE
+
+PIXIT VALUES:
+
+TSPX_bd_addr_iut A8A867452311
+TSPX_time_guard 180000
+TSPX_use_implicit_send TRUE
+TSPX_tester_database_file C:\Program Files\Bluetooth SIG\Bluetooth PTS\Data\SIGDatabase\PTS_HOGP_db.xml
+TSPX_mtu_size 23
+TSPX_secure_simple_pairing_pass_key_confirmation FALSE
+TSPX_delete_link_key FALSE
+TSPX_pin_code 0000
+TSPX_use_dynamic_pin FALSE
+TSPX_delete_ltk FALSE
+TSPX_security_enabled TRUE
+TSPX_input_report_data CDA6F8B3AA
+TSPX_output_report_data 001234567890EF
+TSPX_feature_report_data 872D3F45EA
+TSPX_tester_appearance 03C0
+TSPX_iut_use_resolvable_random_address FALSE
+</PicsPixit>
+  <LOG>
+
++0 ms
+Initialize Test Case:    Build date: Mar 24 2016, 19:21:10
+
+
+
++0 ms
+Start Test Case:         TC_HGCF_BH_BV_03_I
+
+
+
++0 ms
+Message:                   PTS Log started on Monday, April 11, 2016, 09:10:34
+
+
+
++0 ms
+Message:                   PTS: v6.5.0 Build 35
+
+
+
++0 ms
+Message:                   OS: Microsoft Windows NT 6.1.7601 Service Pack 1
+
+
+
++0 ms
+Message:                   OS Name: Microsoft Windows 7 Enterprise 
+
+
+
++4009 ms
+Preliminary Verdict:     PASS
+
+
+
++4056 ms
+Send Event:              HCI!HCI_RESET
+
+
++4196 ms
+Receive Event:           HCI?HCI_RESET_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++4196 ms
+Preliminary Verdict:     PASS
+
+
+
++4196 ms
+Send Event:              HCI!HCI_SET_EVENT_MASK{
+                           eventMask=0x3FFFFFFFFFFFFFFF
+                         }
+
+
++4196 ms
+Receive Event:           HCI?HCI_SET_EVENT_MASK_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++4196 ms
+Preliminary Verdict:     PASS
+
+
+
++4196 ms
+Send Event:              HCI!HCI_READ_LOCAL_VERSION_INFORMATION
+
+
++4196 ms
+Receive Event:           HCI?HCI_READ_LOCAL_VERSION_INFORMATION_COMPLETE_EVENT{
+                           status=HCI_OK,
+                           hciVersion=HCI_VERSION_4_0,
+                           hciRevision=0x2031,
+                           lmpVersion=0x06,
+                           manufacturerName=0x000A,
+                           lmpSubversion=0x2031
+                         }
+
+
++4196 ms
+Preliminary Verdict:     PASS
+
+
+
++4196 ms
+Send Event:              HCI!HCI_READ_BD_ADDR
+
+
++4196 ms
+Receive Event:           HCI?HCI_READ_BD_ADDR_COMPLETE_EVENT{
+                           status=HCI_OK,
+                           bdAddress=0x001BDCE03530
+                         }
+
+
++4196 ms
+Preliminary Verdict:     PASS
+
+
+
++4196 ms
+Send Event:              HCI!HCI_LE_SET_EVENT_MASK{
+                           leEventMask=0x000000000000001F
+                         }
+
+
++4212 ms
+Receive Event:           HCI?HCI_LE_SET_EVENT_MASK_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++4212 ms
+Preliminary Verdict:     PASS
+
+
+
++4212 ms
+Send Event:              HCI!HCI_WRITE_LE_HOST_SUPPORTED{
+                           leSupportedHost=HCI_LE_SUPPORTED_HOST_ENABLED,
+                           simultaneousLeHost=HCI_SIMULTANEOUS_LE_HOST_ENABLED
+                         }
+
+
++4212 ms
+Receive Event:           HCI?HCI_WRITE_LE_HOST_SUPPORTED_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++4212 ms
+Preliminary Verdict:     PASS
+
+
+
++4212 ms
+Send Event:              HCI!HCI_LE_CLEAR_WHITE_LIST
+
+
++4212 ms
+Receive Event:           HCI?HCI_LE_CLEAR_WHITE_LIST_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++4212 ms
+Preliminary Verdict:     PASS
+
+
+
++4212 ms
+Send Event:              HCI!HCI_WRITE_SIMPLE_PAIRING_MODE{
+                           simplePairingMode=HCI_SIMPLE_PAIRING_ENABLED
+                         }
+
+
++4212 ms
+Receive Event:           HCI?HCI_WRITE_SIMPLE_PAIRING_MODE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++4227 ms
+Preliminary Verdict:     PASS
+
+
+
++4227 ms
+Preliminary Verdict:     PASS
+
+
+
++4227 ms
+Send Event:              HCI!HCI_LE_ADD_DEVICE_TO_WHITE_LIST{
+                           addressType=HCI_LE_PUBLIC_DEVICE_ADDRESS,
+                           address=0xA8A867452311
+                         }
+
+
++4227 ms
+Receive Event:           HCI?HCI_LE_ADD_DEVICE_TO_WHITE_LIST_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++4227 ms
+Preliminary Verdict:     PASS
+
+
+
++4227 ms
+Send Event:              HCI!HCI_LE_SET_ADVERTISING_PARAMETERS{
+                           advertisingIntervalMin=0x0200,
+                           advertisingIntervalMax=0x0300,
+                           advertisingType=HCI_LE_CONNECTABLE_UNDIRECTED_ADVERTISING,
+                           ownAddressType=HCI_LE_PASSIVE_SCANNING,
+                           directAddressType=HCI_LE_PASSIVE_SCANNING,
+                           directAddress=0xA8A867452311,
+                           advertisingChannelMap=0x07,
+                           advertisingFilterPolicy=HCI_LE_ALLOW_REQ_SCAN_ANY_CONNECT_ANY
+                         }
+
+
++4227 ms
+Receive Event:           HCI?HCI_LE_SET_ADVERTISING_PARAMETERS_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++4227 ms
+Preliminary Verdict:     PASS
+
+
+
++4227 ms
+Send Event:              HCI!HCI_LE_SET_ADVERTISING_DATA{
+                           advertisingDataLength=0x1A,
+                           advertisingData=0x020106030212180E095054532D484F47502D333033350319C1037C155864
+                         }
+
+
++4227 ms
+Receive Event:           HCI?HCI_LE_SET_ADVERTISING_DATA_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++4227 ms
+Preliminary Verdict:     PASS
+
+
+
++4227 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_RESPONSE_DATA{
+                           scanResponseDataLength=0x04,
+                           scanResponseData=0x0319C003CCF57C00A0AC7B0B06000000F861780BB0EC7A0BE4F57C15F001
+                         }
+
+
++4227 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_RESPONSE_DATA_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++4227 ms
+Preliminary Verdict:     PASS
+
+
+
++4227 ms
+Preliminary Verdict:     PASS
+
+
+
++4243 ms
+Send Event:              HCI!HCI_LE_SET_ADVERTISE_ENABLE{
+                           advertisingEnable=HCI_LE_ADVERTISING_ENABLE
+                         }
+
+
++4259 ms
+Receive Event:           HCI?HCI_LE_SET_ADVERTISE_ENABLE_COMMAND_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++4259 ms
+Preliminary Verdict:     PASS
+
+
+
++4259 ms
+Preliminary Verdict:     PASS
+
+
+
++9251 ms
+Receive Event:           SEC?SEC_LE_REMOTE_CSRK_REQUEST_REQ{
+                           peerAddr=0xA8A867452311,
+                           peerAddrType=HCI_LE_PUBLIC_DEVICE_ADDRESS
+                         }
+
+
++9251 ms
+Receive Event:           HCI?HCI_LE_CONNECTION_COMPLETE_EVENT{
+                           status=HCI_OK,
+                           connectionHandle=0x004A,
+                           role=HCI_ROLE_SLAVE,
+                           peerAddressType=HCI_LE_PUBLIC_DEVICE_ADDRESS,
+                           peerAddress=A8A867452311,
+                           connInterval=0x0038,
+                           connLatency=0x0000,
+                           supervisionTimeout=0x002A,
+                           clockAccuracy=HCI_LE_CLOCK_ACCURACY_500PPM
+                         }
+
+
++9251 ms
+Send Event:              SEC!SEC_LE_REMOTE_CSRK_REQUEST_RSP{
+                           peerAddr=0xA8A867452311,
+                           peerAddrType=HCI_LE_PUBLIC_DEVICE_ADDRESS,
+                           accept=TRUE,
+                           keyType=HCI_UNAUTHENTICATED_COMBINATION_KEY,
+                           csrk=0x00000000000000000000000000000000,
+                           signCounter=0x00000000
+                         }
+
+
++9251 ms
+Preliminary Verdict:     PASS
+
+
+
++9251 ms
+Verdict Description:     Connection established successfully.
+
+
+
++9266 ms
+Preliminary Verdict:     PASS
+
+
+
++9266 ms
+Send Event:              SEC!SEC_LE_ACCESS_REQ{
+                           peerAddr=0xA8A867452311,
+                           peerAddrType=HCI_LE_PUBLIC_DEVICE_ADDRESS,
+                           ownAddrType=HCI_LE_PUBLIC_DEVICE_ADDRESS,
+                           direction=SEC_LE_OUTGOING_SERVICE_REQ,
+                           serviceReqId=0x0001,
+                           userData=Test
+                         }
+
+
++9360 ms
+Receive Event:           SEC?SEC_LE_LONG_TERM_KEY_REQUEST_REQ{
+                           peerAddr=0xA8A867452311,
+                           peerAddrType=HCI_LE_PUBLIC_DEVICE_ADDRESS,
+                           eDiv=0x6A9A,
+                           randValue=0xBD615DFAF083395C
+                         }
+
+
++9360 ms
+Send Event:              SEC!SEC_LE_LONG_TERM_KEY_REQUEST_RSP{
+                           peerAddr=0xA8A867452311,
+                           accept=TRUE,
+                           keyType=0x04,
+                           ltk=0xAB83736708E75867E74B833850E75E71
+                         }
+
+
++9500 ms
+Receive Event:           HCI?HCI_ENCRYPTION_CHANGE_EVENT{
+                           status=HCI_OK,
+                           connectionHandle=0x004A,
+                           encryptionEnable=TRUE
+                         }
+
+
++9500 ms
+Receive Event:           SEC?SEC_LE_ACCESS_RSP{
+                           peerAddr=0xA8A867452311,
+                           direction=SEC_LE_OUTGOING_SERVICE_REQ,
+                           serviceReqId=0x0001,
+                           accessGranted=TRUE
+                         }
+
+
++9500 ms
+Preliminary Verdict:     PASS
+
+
+
++9500 ms
+Verdict Description:     LE Security procedures completed successfully.
+
+
+
++9500 ms
+Send Event:              ATT!ATT_CONNECT_REQ{
+                           peerAddr=0xA8A867452311,
+                           peerAddrType=HCI_LE_PUBLIC_DEVICE_ADDRESS,
+                           ownAddrType=HCI_LE_PUBLIC_DEVICE_ADDRESS,
+                           minInterval=0x0032,
+                           maxInterval=0x0046,
+                           latency=0x0000
+                         }
+
+
++9500 ms
+Receive Event:           ATT?ATT_CONNECT_RSP{
+                           bdAddr=0xA8A867452311,
+                           peerAddrType=HCI_LE_PUBLIC_DEVICE_ADDRESS,
+                           lcid=0x0040,
+                           status=HCI_OK
+                         }
+
+
++9516 ms
+Send Event:              ATT!ATT_HANDLE_VALUE_REQ{
+                           lcid=0x0040,
+                           attributeHandle=0x0022,
+                           length=0x0004,
+                           attributeValue=0xFFFF0001
+                         }
+
+
++9516 ms
+Preliminary Verdict:     PASS
+
+
+
++9516 ms
+Verdict Description:     Wait for IUT to write with handle = 0x0076, length = 2, value = 0x0001.
+
+
+
++9641 ms
+Receive Event:           ATT?ATT_WRITE_COMMAND_REQ{
+                           lcid=0x0040,
+                           attributeHandle=0x0089,
+                           length=0x0001,
+                           attributeValue=0x00
+                         }
+
+
++9641 ms
+Receive Event:           ATT?ATT_WRITE_COMMAND_REQ{
+                           lcid=0x0040,
+                           attributeHandle=0x00D6,
+                           length=0x0001,
+                           attributeValue=0x00
+                         }
+
+
++9921 ms
+Receive Event:           SEC?SEC_LE_LONG_TERM_KEY_REQUEST_REQ{
+                           peerAddr=0xA8A867452311,
+                           peerAddrType=HCI_LE_PUBLIC_DEVICE_ADDRESS,
+                           eDiv=0x6A9A,
+                           randValue=0xBD615DFAF083395C
+                         }
+
+
++9921 ms
+Send Event:              SEC!SEC_LE_LONG_TERM_KEY_REQUEST_RSP{
+                           peerAddr=0xA8A867452311,
+                           accept=TRUE,
+                           keyType=0x04,
+                           ltk=0xAB83736708E75867E74B833850E75E71
+                         }
+
+
++10062 ms
+Receive Event:           HCI?HCI_ENCRYPTION_KEY_REFRESH_COMPLETE_EVENT{
+                           status=HCI_OK,
+                           connectionHandle=0x004A
+                         }
+
+
++10202 ms
+Receive Event:           ATT?ATT_HANDLE_VALUE_CFM{
+                           lcid=0x0040,
+                           result=0x0100
+                         }
+
+
++10202 ms
+Receive Event:           ATT?ATT_READ_BY_GROUP_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0001,
+                           endingHandle=0xFFFF,
+                           attributeGroupTypeSize=0x02,
+                           attributeGroupType=0x2800
+                         }
+
+
++10202 ms
+Send Event:              ATT!ATT_READ_BY_GROUP_TYPE_RSP{
+                           lcid=0x0040,
+                           lengthOfGroupHandlesValue=0x06,
+                           numberOfGroupHandlesValues=0x03,
+                           attributeHandle=0x0001,
+                           endGroupHandle=0x000B,
+                           				{
+                             startingHandle=0x0001,
+                             endingHandle=0x000B
+					value{
+                               PrimaryService=0x1800
+                             }
+
+                           }
+				{
+                             startingHandle=0x0020,
+                             endingHandle=0x0023
+					value{
+                               PrimaryService=0x1801
+                             }
+
+                           }
+				{
+                             startingHandle=0x0040,
+                             endingHandle=0x0057
+					value{
+                               PrimaryService=0x180A
+                             }
+
+                           }
+
+                         }
+
+
++10343 ms
+Receive Event:           ATT?ATT_READ_BY_GROUP_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0058,
+                           endingHandle=0xFFFF,
+                           attributeGroupTypeSize=0x02,
+                           attributeGroupType=0x2800
+                         }
+
+
++10343 ms
+Send Event:              ATT!ATT_READ_BY_GROUP_TYPE_RSP{
+                           lcid=0x0040,
+                           lengthOfGroupHandlesValue=0x06,
+                           numberOfGroupHandlesValues=0x03,
+                           attributeHandle=0x0070,
+                           endGroupHandle=0x0089,
+                           				{
+                             startingHandle=0x0070,
+                             endingHandle=0x0089
+					value{
+                               PrimaryService=0x1812
+                             }
+
+                           }
+				{
+                             startingHandle=0x00A0,
+                             endingHandle=0x00A5
+					value{
+                               PrimaryService=0x180F
+                             }
+
+                           }
+				{
+                             startingHandle=0x00C0,
+                             endingHandle=0x00D6
+					value{
+                               PrimaryService=0x1812
+                             }
+
+                           }
+
+                         }
+
+
++10483 ms
+Receive Event:           ATT?ATT_READ_BY_GROUP_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x00D7,
+                           endingHandle=0xFFFF,
+                           attributeGroupTypeSize=0x02,
+                           attributeGroupType=0x2800
+                         }
+
+
++10483 ms
+Send Event:              ATT!ATT_ERROR_RSP{
+                           lcid=0x0040,
+                           attributeHandleInError=0x00D7,
+                           errorCode=0x000A
+                         }
+
+
++10623 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0002,
+                           endingHandle=0x000B,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2802
+                         }
+
+
++10623 ms
+Send Event:              ATT!ATT_ERROR_RSP{
+                           lcid=0x0040,
+                           attributeHandleInError=0x0002,
+                           errorCode=0x000A
+                         }
+
+
++10764 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0002,
+                           endingHandle=0x000B,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2803
+                         }
+
+
++10764 ms
+Send Event:              ATT!ATT_READ_BY_TYPE_RSP{
+                           lcid=0x0040,
+                           lengthOfHandleValuePair=0x07,
+                           numberOfHandleValuePairs=0x03,
+                           attributeHandle=0x0002,
+                           				{
+                             handle=0x0002
+					value{
+                               Properties=0x02,
+                               Handle=0x0003,
+                               UUID=0x2A00
+                             }
+
+                           }
+				{
+                             handle=0x0004
+					value{
+                               Properties=0x02,
+                               Handle=0x0005,
+                               UUID=0x2A01
+                             }
+
+                           }
+				{
+                             handle=0x0006
+					value{
+                               Properties=0x0A,
+                               Handle=0x0007,
+                               UUID=0x2A03
+                             }
+
+                           }
+
+                         }
+
+
++10904 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0007,
+                           endingHandle=0x000B,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2803
+                         }
+
+
++10904 ms
+Send Event:              ATT!ATT_READ_BY_TYPE_RSP{
+                           lcid=0x0040,
+                           lengthOfHandleValuePair=0x07,
+                           numberOfHandleValuePairs=0x02,
+                           attributeHandle=0x0008,
+                           				{
+                             handle=0x0008
+					value{
+                               Properties=0x0A,
+                               Handle=0x0009,
+                               UUID=0x2A02
+                             }
+
+                           }
+				{
+                             handle=0x000A
+					value{
+                               Properties=0x02,
+                               Handle=0x000B,
+                               UUID=0x2A04
+                             }
+
+                           }
+
+                         }
+
+
++11045 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x000B,
+                           endingHandle=0x000B,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2803
+                         }
+
+
++11045 ms
+Send Event:              ATT!ATT_ERROR_RSP{
+                           lcid=0x0040,
+                           attributeHandleInError=0x000B,
+                           errorCode=0x000A
+                         }
+
+
++11185 ms
+Receive Event:           ATT?ATT_FIND_INFO_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0002,
+                           endingHandle=0x000B
+                         }
+
+
++11185 ms
+Send Event:              ATT!ATT_FIND_INFO_RSP{
+                           lcid=0x0040,
+                           format=0x01,
+                           numberOfHandleValuePairs=0x05,
+                           				{
+                             handle=0x0002,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x0003,
+                             uuid=0x2A00
+					
+                           }				{
+                             handle=0x0004,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x0005,
+                             uuid=0x2A01
+					
+                           }				{
+                             handle=0x0006,
+                             uuid=0x2803
+					
+                           }
+                         }
+
+
++11325 ms
+Receive Event:           ATT?ATT_FIND_INFO_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0007,
+                           endingHandle=0x000B
+                         }
+
+
++11325 ms
+Send Event:              ATT!ATT_FIND_INFO_RSP{
+                           lcid=0x0040,
+                           format=0x01,
+                           numberOfHandleValuePairs=0x05,
+                           				{
+                             handle=0x0007,
+                             uuid=0x2A03
+					
+                           }				{
+                             handle=0x0008,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x0009,
+                             uuid=0x2A02
+					
+                           }				{
+                             handle=0x000A,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x000B,
+                             uuid=0x2A04
+					
+                           }
+                         }
+
+
++11466 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0021,
+                           endingHandle=0x0023,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2802
+                         }
+
+
++11466 ms
+Send Event:              ATT!ATT_ERROR_RSP{
+                           lcid=0x0040,
+                           attributeHandleInError=0x0021,
+                           errorCode=0x000A
+                         }
+
+
++11606 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0021,
+                           endingHandle=0x0023,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2803
+                         }
+
+
++11606 ms
+Send Event:              ATT!ATT_READ_BY_TYPE_RSP{
+                           lcid=0x0040,
+                           lengthOfHandleValuePair=0x07,
+                           numberOfHandleValuePairs=0x01,
+                           attributeHandle=0x0021,
+                           				{
+                             handle=0x0021
+					value{
+                               Properties=0x20,
+                               Handle=0x0022,
+                               UUID=0x2A05
+                             }
+
+                           }
+
+                         }
+
+
++11747 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0022,
+                           endingHandle=0x0023,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2803
+                         }
+
+
++11747 ms
+Send Event:              ATT!ATT_ERROR_RSP{
+                           lcid=0x0040,
+                           attributeHandleInError=0x0022,
+                           errorCode=0x000A
+                         }
+
+
++11887 ms
+Receive Event:           ATT?ATT_FIND_INFO_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0021,
+                           endingHandle=0x0023
+                         }
+
+
++11887 ms
+Send Event:              ATT!ATT_FIND_INFO_RSP{
+                           lcid=0x0040,
+                           format=0x01,
+                           numberOfHandleValuePairs=0x03,
+                           				{
+                             handle=0x0021,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x0022,
+                             uuid=0x2A05
+					
+                           }				{
+                             handle=0x0023,
+                             uuid=0x2902
+					
+                           }
+                         }
+
+
++12027 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0041,
+                           endingHandle=0x0057,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2802
+                         }
+
+
++12027 ms
+Send Event:              ATT!ATT_ERROR_RSP{
+                           lcid=0x0040,
+                           attributeHandleInError=0x0041,
+                           errorCode=0x000A
+                         }
+
+
++12168 ms
+Receive Event:           ATT?ATT_WRITE_REQ{
+                           lcid=0x0040,
+                           attributeHandle=0x0023,
+                           length=0x0002,
+                           value=0x0002
+                         }
+
+
++12168 ms
+Send Event:              ATT!ATT_WRITE_RSP{
+                           lcid=0x0040,
+                           value{
+                             Properties=0x0002
+                           }
+
+                         }
+
+
++12293 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0041,
+                           endingHandle=0x0057,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2803
+                         }
+
+
++12308 ms
+Send Event:              ATT!ATT_READ_BY_TYPE_RSP{
+                           lcid=0x0040,
+                           lengthOfHandleValuePair=0x07,
+                           numberOfHandleValuePairs=0x03,
+                           attributeHandle=0x0041,
+                           				{
+                             handle=0x0041
+					value{
+                               Properties=0x02,
+                               Handle=0x0042,
+                               UUID=0x4509
+                             }
+
+                           }
+				{
+                             handle=0x0043
+					value{
+                               Properties=0x02,
+                               Handle=0x0044,
+                               UUID=0x2A23
+                             }
+
+                           }
+				{
+                             handle=0x0045
+					value{
+                               Properties=0x02,
+                               Handle=0x0046,
+                               UUID=0x2A24
+                             }
+
+                           }
+
+                         }
+
+
++12433 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0046,
+                           endingHandle=0x0057,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2803
+                         }
+
+
++12449 ms
+Send Event:              ATT!ATT_READ_BY_TYPE_RSP{
+                           lcid=0x0040,
+                           lengthOfHandleValuePair=0x07,
+                           numberOfHandleValuePairs=0x03,
+                           attributeHandle=0x0047,
+                           				{
+                             handle=0x0047
+					value{
+                               Properties=0x02,
+                               Handle=0x0048,
+                               UUID=0x2A25
+                             }
+
+                           }
+				{
+                             handle=0x0049
+					value{
+                               Properties=0x02,
+                               Handle=0x004A,
+                               UUID=0x2A26
+                             }
+
+                           }
+				{
+                             handle=0x004B
+					value{
+                               Properties=0x02,
+                               Handle=0x004C,
+                               UUID=0x2A27
+                             }
+
+                           }
+
+                         }
+
+
++12573 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x004C,
+                           endingHandle=0x0057,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2803
+                         }
+
+
++12589 ms
+Send Event:              ATT!ATT_READ_BY_TYPE_RSP{
+                           lcid=0x0040,
+                           lengthOfHandleValuePair=0x07,
+                           numberOfHandleValuePairs=0x03,
+                           attributeHandle=0x004D,
+                           				{
+                             handle=0x004D
+					value{
+                               Properties=0x02,
+                               Handle=0x004E,
+                               UUID=0x2A28
+                             }
+
+                           }
+				{
+                             handle=0x004F
+					value{
+                               Properties=0x02,
+                               Handle=0x0050,
+                               UUID=0x2A29
+                             }
+
+                           }
+				{
+                             handle=0x0051
+					value{
+                               Properties=0x02,
+                               Handle=0x0052,
+                               UUID=0x2A2A
+                             }
+
+                           }
+
+                         }
+
+
++12714 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0052,
+                           endingHandle=0x0057,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2803
+                         }
+
+
++12714 ms
+Send Event:              ATT!ATT_READ_BY_TYPE_RSP{
+                           lcid=0x0040,
+                           lengthOfHandleValuePair=0x07,
+                           numberOfHandleValuePairs=0x02,
+                           attributeHandle=0x0053,
+                           				{
+                             handle=0x0053
+					value{
+                               Properties=0x02,
+                               Handle=0x0054,
+                               UUID=0x2A50
+                             }
+
+                           }
+				{
+                             handle=0x0055
+					value{
+                               Properties=0x02,
+                               Handle=0x0056,
+                               UUID=0x3422
+                             }
+
+                           }
+
+                         }
+
+
++12854 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0056,
+                           endingHandle=0x0057,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2803
+                         }
+
+
++12854 ms
+Send Event:              ATT!ATT_ERROR_RSP{
+                           lcid=0x0040,
+                           attributeHandleInError=0x0056,
+                           errorCode=0x000A
+                         }
+
+
++12995 ms
+Receive Event:           ATT?ATT_FIND_INFO_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0041,
+                           endingHandle=0x0057
+                         }
+
+
++12995 ms
+Send Event:              ATT!ATT_FIND_INFO_RSP{
+                           lcid=0x0040,
+                           format=0x01,
+                           numberOfHandleValuePairs=0x05,
+                           				{
+                             handle=0x0041,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x0042,
+                             uuid=0x4509
+					
+                           }				{
+                             handle=0x0043,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x0044,
+                             uuid=0x2A23
+					
+                           }				{
+                             handle=0x0045,
+                             uuid=0x2803
+					
+                           }
+                         }
+
+
++13135 ms
+Receive Event:           ATT?ATT_FIND_INFO_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0046,
+                           endingHandle=0x0057
+                         }
+
+
++13135 ms
+Send Event:              ATT!ATT_FIND_INFO_RSP{
+                           lcid=0x0040,
+                           format=0x01,
+                           numberOfHandleValuePairs=0x05,
+                           				{
+                             handle=0x0046,
+                             uuid=0x2A24
+					
+                           }				{
+                             handle=0x0047,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x0048,
+                             uuid=0x2A25
+					
+                           }				{
+                             handle=0x0049,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x004A,
+                             uuid=0x2A26
+					
+                           }
+                         }
+
+
++13275 ms
+Receive Event:           ATT?ATT_FIND_INFO_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x004B,
+                           endingHandle=0x0057
+                         }
+
+
++13275 ms
+Send Event:              ATT!ATT_FIND_INFO_RSP{
+                           lcid=0x0040,
+                           format=0x01,
+                           numberOfHandleValuePairs=0x05,
+                           				{
+                             handle=0x004B,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x004C,
+                             uuid=0x2A27
+					
+                           }				{
+                             handle=0x004D,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x004E,
+                             uuid=0x2A28
+					
+                           }				{
+                             handle=0x004F,
+                             uuid=0x2803
+					
+                           }
+                         }
+
+
++13416 ms
+Receive Event:           ATT?ATT_FIND_INFO_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0050,
+                           endingHandle=0x0057
+                         }
+
+
++13416 ms
+Send Event:              ATT!ATT_FIND_INFO_RSP{
+                           lcid=0x0040,
+                           format=0x01,
+                           numberOfHandleValuePairs=0x05,
+                           				{
+                             handle=0x0050,
+                             uuid=0x2A29
+					
+                           }				{
+                             handle=0x0051,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x0052,
+                             uuid=0x2A2A
+					
+                           }				{
+                             handle=0x0053,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x0054,
+                             uuid=0x2A50
+					
+                           }
+                         }
+
+
++13556 ms
+Receive Event:           ATT?ATT_FIND_INFO_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0055,
+                           endingHandle=0x0057
+                         }
+
+
++13556 ms
+Send Event:              ATT!ATT_FIND_INFO_RSP{
+                           lcid=0x0040,
+                           format=0x01,
+                           numberOfHandleValuePairs=0x03,
+                           				{
+                             handle=0x0055,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x0056,
+                             uuid=0x3422
+					
+                           }				{
+                             handle=0x0057,
+                             uuid=0x2902
+					
+                           }
+                         }
+
+
++13697 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0071,
+                           endingHandle=0x0089,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2802
+                         }
+
+
++13697 ms
+Send Event:              ATT!ATT_READ_BY_TYPE_RSP{
+                           lcid=0x0040,
+                           lengthOfHandleValuePair=0x08,
+                           numberOfHandleValuePairs=0x01,
+                           attributeHandle=0x0071,
+                           				{
+                             handle=0x0071
+					value{
+                               IncludedServiceAttributehandle=0x00A0,
+                               EndGroupHandle=0x00A5,
+                               ServiceUUID=0x180F
+                             }
+
+                           }
+
+                         }
+
+
++13837 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0072,
+                           endingHandle=0x0089,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2802
+                         }
+
+
++13837 ms
+Send Event:              ATT!ATT_ERROR_RSP{
+                           lcid=0x0040,
+                           attributeHandleInError=0x0072,
+                           errorCode=0x000A
+                         }
+
+
++13977 ms
+Receive Event:           ATT?ATT_READ_REQ{
+                           lcid=0x0040,
+                           attributeHandle=0x0054
+                         }
+
+
++13977 ms
+Send Event:              ATT!ATT_READ_RSP{
+                           lcid=0x0040,
+                           length=0x07,
+                           value{
+                             VendorIDSource=0x01,
+                             VendorID=0x006B,
+                             ProductID=0x1234,
+                             ProductVersion=0x0102
+                           }
+
+                         }
+
+
++14118 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0071,
+                           endingHandle=0x0089,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2803
+                         }
+
+
++14118 ms
+Send Event:              ATT!ATT_READ_BY_TYPE_RSP{
+                           lcid=0x0040,
+                           lengthOfHandleValuePair=0x07,
+                           numberOfHandleValuePairs=0x03,
+                           attributeHandle=0x0072,
+                           				{
+                             handle=0x0072
+					value{
+                               Properties=0x02,
+                               Handle=0x0073,
+                               UUID=0x2A4A
+                             }
+
+                           }
+				{
+                             handle=0x0074
+					value{
+                               Properties=0x1A,
+                               Handle=0x0075,
+                               UUID=0x2A22
+                             }
+
+                           }
+				{
+                             handle=0x0077
+					value{
+                               Properties=0x0E,
+                               Handle=0x0078,
+                               UUID=0x2A32
+                             }
+
+                           }
+
+                         }
+
+
++14258 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0078,
+                           endingHandle=0x0089,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2803
+                         }
+
+
++14258 ms
+Send Event:              ATT!ATT_READ_BY_TYPE_RSP{
+                           lcid=0x0040,
+                           lengthOfHandleValuePair=0x07,
+                           numberOfHandleValuePairs=0x03,
+                           attributeHandle=0x0079,
+                           				{
+                             handle=0x0079
+					value{
+                               Properties=0x02,
+                               Handle=0x007A,
+                               UUID=0x2A4B
+                             }
+
+                           }
+				{
+                             handle=0x007C
+					value{
+                               Properties=0x1A,
+                               Handle=0x007D,
+                               UUID=0x2A4D
+                             }
+
+                           }
+				{
+                             handle=0x0080
+					value{
+                               Properties=0x0E,
+                               Handle=0x0081,
+                               UUID=0x2A4D
+                             }
+
+                           }
+
+                         }
+
+
++14399 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0081,
+                           endingHandle=0x0089,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2803
+                         }
+
+
++14399 ms
+Send Event:              ATT!ATT_READ_BY_TYPE_RSP{
+                           lcid=0x0040,
+                           lengthOfHandleValuePair=0x07,
+                           numberOfHandleValuePairs=0x03,
+                           attributeHandle=0x0083,
+                           				{
+                             handle=0x0083
+					value{
+                               Properties=0x0A,
+                               Handle=0x0084,
+                               UUID=0x2A4D
+                             }
+
+                           }
+				{
+                             handle=0x0086
+					value{
+                               Properties=0x04,
+                               Handle=0x0087,
+                               UUID=0x2A4C
+                             }
+
+                           }
+				{
+                             handle=0x0088
+					value{
+                               Properties=0x06,
+                               Handle=0x0089,
+                               UUID=0x2A4E
+                             }
+
+                           }
+
+                         }
+
+
++14539 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0089,
+                           endingHandle=0x0089,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2803
+                         }
+
+
++14539 ms
+Send Event:              ATT!ATT_ERROR_RSP{
+                           lcid=0x0040,
+                           attributeHandleInError=0x0089,
+                           errorCode=0x000A
+                         }
+
+
++14679 ms
+Receive Event:           ATT?ATT_FIND_INFO_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0071,
+                           endingHandle=0x0089
+                         }
+
+
++14679 ms
+Send Event:              ATT!ATT_FIND_INFO_RSP{
+                           lcid=0x0040,
+                           format=0x01,
+                           numberOfHandleValuePairs=0x05,
+                           				{
+                             handle=0x0071,
+                             uuid=0x2802
+					
+                           }				{
+                             handle=0x0072,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x0073,
+                             uuid=0x2A4A
+					
+                           }				{
+                             handle=0x0074,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x0075,
+                             uuid=0x2A22
+					
+                           }
+                         }
+
+
++14820 ms
+Receive Event:           ATT?ATT_FIND_INFO_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0076,
+                           endingHandle=0x0089
+                         }
+
+
++14820 ms
+Send Event:              ATT!ATT_FIND_INFO_RSP{
+                           lcid=0x0040,
+                           format=0x01,
+                           numberOfHandleValuePairs=0x05,
+                           				{
+                             handle=0x0076,
+                             uuid=0x2902
+					
+                           }				{
+                             handle=0x0077,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x0078,
+                             uuid=0x2A32
+					
+                           }				{
+                             handle=0x0079,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x007A,
+                             uuid=0x2A4B
+					
+                           }
+                         }
+
+
++14960 ms
+Receive Event:           ATT?ATT_FIND_INFO_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x007B,
+                           endingHandle=0x0089
+                         }
+
+
++14960 ms
+Send Event:              ATT!ATT_FIND_INFO_RSP{
+                           lcid=0x0040,
+                           format=0x01,
+                           numberOfHandleValuePairs=0x05,
+                           				{
+                             handle=0x007B,
+                             uuid=0x2907
+					
+                           }				{
+                             handle=0x007C,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x007D,
+                             uuid=0x2A4D
+					
+                           }				{
+                             handle=0x007E,
+                             uuid=0x2902
+					
+                           }				{
+                             handle=0x007F,
+                             uuid=0x2908
+					
+                           }
+                         }
+
+
++15101 ms
+Receive Event:           ATT?ATT_FIND_INFO_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0080,
+                           endingHandle=0x0089
+                         }
+
+
++15101 ms
+Send Event:              ATT!ATT_FIND_INFO_RSP{
+                           lcid=0x0040,
+                           format=0x01,
+                           numberOfHandleValuePairs=0x05,
+                           				{
+                             handle=0x0080,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x0081,
+                             uuid=0x2A4D
+					
+                           }				{
+                             handle=0x0082,
+                             uuid=0x2908
+					
+                           }				{
+                             handle=0x0083,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x0084,
+                             uuid=0x2A4D
+					
+                           }
+                         }
+
+
++15241 ms
+Receive Event:           ATT?ATT_FIND_INFO_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x0085,
+                           endingHandle=0x0089
+                         }
+
+
++15241 ms
+Send Event:              ATT!ATT_FIND_INFO_RSP{
+                           lcid=0x0040,
+                           format=0x01,
+                           numberOfHandleValuePairs=0x05,
+                           				{
+                             handle=0x0085,
+                             uuid=0x2908
+					
+                           }				{
+                             handle=0x0086,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x0087,
+                             uuid=0x2A4C
+					
+                           }				{
+                             handle=0x0088,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x0089,
+                             uuid=0x2A4E
+					
+                           }
+                         }
+
+
++15381 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x00A1,
+                           endingHandle=0x00A5,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2802
+                         }
+
+
++15381 ms
+Send Event:              ATT!ATT_ERROR_RSP{
+                           lcid=0x0040,
+                           attributeHandleInError=0x00A1,
+                           errorCode=0x000A
+                         }
+
+
++15522 ms
+Receive Event:           ATT?ATT_WRITE_COMMAND_REQ{
+                           lcid=0x0040,
+                           attributeHandle=0x0089,
+                           length=0x0001,
+                           attributeValue=0x00
+                         }
+
+
++15522 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x00A1,
+                           endingHandle=0x00A5,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2803
+                         }
+
+
++15522 ms
+Send Event:              ATT!ATT_READ_BY_TYPE_RSP{
+                           lcid=0x0040,
+                           lengthOfHandleValuePair=0x07,
+                           numberOfHandleValuePairs=0x01,
+                           attributeHandle=0x00A1,
+                           				{
+                             handle=0x00A1
+					value{
+                               Properties=0x12,
+                               Handle=0x00A2,
+                               UUID=0x2A19
+                             }
+
+                           }
+
+                         }
+
+
++15662 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x00A2,
+                           endingHandle=0x00A5,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2803
+                         }
+
+
++15662 ms
+Send Event:              ATT!ATT_ERROR_RSP{
+                           lcid=0x0040,
+                           attributeHandleInError=0x00A2,
+                           errorCode=0x000A
+                         }
+
+
++15803 ms
+Receive Event:           ATT?ATT_FIND_INFO_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x00A1,
+                           endingHandle=0x00A5
+                         }
+
+
++15803 ms
+Send Event:              ATT!ATT_FIND_INFO_RSP{
+                           lcid=0x0040,
+                           format=0x01,
+                           numberOfHandleValuePairs=0x05,
+                           				{
+                             handle=0x00A1,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x00A2,
+                             uuid=0x2A19
+					
+                           }				{
+                             handle=0x00A3,
+                             uuid=0x2902
+					
+                           }				{
+                             handle=0x00A4,
+                             uuid=0x2908
+					
+                           }				{
+                             handle=0x00A5,
+                             uuid=0x2904
+					
+                           }
+                         }
+
+
++15943 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x00C1,
+                           endingHandle=0x00D6,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2802
+                         }
+
+
++15943 ms
+Send Event:              ATT!ATT_ERROR_RSP{
+                           lcid=0x0040,
+                           attributeHandleInError=0x00C1,
+                           errorCode=0x000A
+                         }
+
+
++16083 ms
+Receive Event:           ATT?ATT_READ_REQ{
+                           lcid=0x0040,
+                           attributeHandle=0x00A3
+                         }
+
+
++16083 ms
+Send Event:              ATT!ATT_READ_RSP{
+                           lcid=0x0040,
+                           length=0x02,
+                           value{
+                             Properties=0x0000
+                           }
+
+                         }
+
+
++16224 ms
+Receive Event:           ATT?ATT_WRITE_REQ{
+                           lcid=0x0040,
+                           attributeHandle=0x00A3,
+                           length=0x0002,
+                           value=0x0001
+                         }
+
+
++16224 ms
+Send Event:              ATT!ATT_WRITE_RSP{
+                           lcid=0x0040,
+                           value{
+                             Properties=0x0001
+                           }
+
+                         }
+
+
++16364 ms
+Receive Event:           ATT?ATT_READ_REQ{
+                           lcid=0x0040,
+                           attributeHandle=0x00A2
+                         }
+
+
++16364 ms
+Send Event:              ATT!ATT_READ_RSP{
+                           lcid=0x0040,
+                           length=0x01,
+                           value{
+                             Level=100
+                           }
+
+                         }
+
+
++16505 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x00C1,
+                           endingHandle=0x00D6,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2803
+                         }
+
+
++16505 ms
+Send Event:              ATT!ATT_READ_BY_TYPE_RSP{
+                           lcid=0x0040,
+                           lengthOfHandleValuePair=0x07,
+                           numberOfHandleValuePairs=0x03,
+                           attributeHandle=0x00C1,
+                           				{
+                             handle=0x00C1
+					value{
+                               Properties=0x02,
+                               Handle=0x00C2,
+                               UUID=0x2A4A
+                             }
+
+                           }
+				{
+                             handle=0x00C3
+					value{
+                               Properties=0x1A,
+                               Handle=0x00C4,
+                               UUID=0x2A33
+                             }
+
+                           }
+				{
+                             handle=0x00C6
+					value{
+                               Properties=0x02,
+                               Handle=0x00C7,
+                               UUID=0x2A4B
+                             }
+
+                           }
+
+                         }
+
+
++16645 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x00C7,
+                           endingHandle=0x00D6,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2803
+                         }
+
+
++16645 ms
+Send Event:              ATT!ATT_READ_BY_TYPE_RSP{
+                           lcid=0x0040,
+                           lengthOfHandleValuePair=0x07,
+                           numberOfHandleValuePairs=0x03,
+                           attributeHandle=0x00C9,
+                           				{
+                             handle=0x00C9
+					value{
+                               Properties=0x1A,
+                               Handle=0x00CA,
+                               UUID=0x2A4D
+                             }
+
+                           }
+				{
+                             handle=0x00CD
+					value{
+                               Properties=0x0E,
+                               Handle=0x00CE,
+                               UUID=0x2A4D
+                             }
+
+                           }
+				{
+                             handle=0x00D0
+					value{
+                               Properties=0x0A,
+                               Handle=0x00D1,
+                               UUID=0x2A4D
+                             }
+
+                           }
+
+                         }
+
+
++16785 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x00D1,
+                           endingHandle=0x00D6,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2803
+                         }
+
+
++16785 ms
+Send Event:              ATT!ATT_READ_BY_TYPE_RSP{
+                           lcid=0x0040,
+                           lengthOfHandleValuePair=0x07,
+                           numberOfHandleValuePairs=0x02,
+                           attributeHandle=0x00D3,
+                           				{
+                             handle=0x00D3
+					value{
+                               Properties=0x04,
+                               Handle=0x00D4,
+                               UUID=0x2A4C
+                             }
+
+                           }
+				{
+                             handle=0x00D5
+					value{
+                               Properties=0x06,
+                               Handle=0x00D6,
+                               UUID=0x2A4E
+                             }
+
+                           }
+
+                         }
+
+
++16926 ms
+Receive Event:           ATT?ATT_READ_BY_TYPE_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x00D6,
+                           endingHandle=0x00D6,
+                           attributeTypeSize=0x02,
+                           attributeType=0x2803
+                         }
+
+
++16926 ms
+Send Event:              ATT!ATT_ERROR_RSP{
+                           lcid=0x0040,
+                           attributeHandleInError=0x00D6,
+                           errorCode=0x000A
+                         }
+
+
++17066 ms
+Receive Event:           ATT?ATT_FIND_INFO_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x00C1,
+                           endingHandle=0x00D6
+                         }
+
+
++17066 ms
+Send Event:              ATT!ATT_FIND_INFO_RSP{
+                           lcid=0x0040,
+                           format=0x01,
+                           numberOfHandleValuePairs=0x05,
+                           				{
+                             handle=0x00C1,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x00C2,
+                             uuid=0x2A4A
+					
+                           }				{
+                             handle=0x00C3,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x00C4,
+                             uuid=0x2A33
+					
+                           }				{
+                             handle=0x00C5,
+                             uuid=0x2902
+					
+                           }
+                         }
+
+
++17207 ms
+Receive Event:           ATT?ATT_FIND_INFO_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x00C6,
+                           endingHandle=0x00D6
+                         }
+
+
++17207 ms
+Send Event:              ATT!ATT_FIND_INFO_RSP{
+                           lcid=0x0040,
+                           format=0x01,
+                           numberOfHandleValuePairs=0x05,
+                           				{
+                             handle=0x00C6,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x00C7,
+                             uuid=0x2A4B
+					
+                           }				{
+                             handle=0x00C8,
+                             uuid=0x2907
+					
+                           }				{
+                             handle=0x00C9,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x00CA,
+                             uuid=0x2A4D
+					
+                           }
+                         }
+
+
++17347 ms
+Receive Event:           ATT?ATT_FIND_INFO_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x00CB,
+                           endingHandle=0x00D6
+                         }
+
+
++17347 ms
+Send Event:              ATT!ATT_FIND_INFO_RSP{
+                           lcid=0x0040,
+                           format=0x01,
+                           numberOfHandleValuePairs=0x05,
+                           				{
+                             handle=0x00CB,
+                             uuid=0x2902
+					
+                           }				{
+                             handle=0x00CC,
+                             uuid=0x2908
+					
+                           }				{
+                             handle=0x00CD,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x00CE,
+                             uuid=0x2A4D
+					
+                           }				{
+                             handle=0x00CF,
+                             uuid=0x2908
+					
+                           }
+                         }
+
+
++17487 ms
+Receive Event:           ATT?ATT_FIND_INFO_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x00D0,
+                           endingHandle=0x00D6
+                         }
+
+
++17487 ms
+Send Event:              ATT!ATT_FIND_INFO_RSP{
+                           lcid=0x0040,
+                           format=0x01,
+                           numberOfHandleValuePairs=0x05,
+                           				{
+                             handle=0x00D0,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x00D1,
+                             uuid=0x2A4D
+					
+                           }				{
+                             handle=0x00D2,
+                             uuid=0x2908
+					
+                           }				{
+                             handle=0x00D3,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x00D4,
+                             uuid=0x2A4C
+					
+                           }
+                         }
+
+
++17628 ms
+Receive Event:           ATT?ATT_FIND_INFO_REQ{
+                           lcid=0x0040,
+                           startingHandle=0x00D5,
+                           endingHandle=0x00D6
+                         }
+
+
++17628 ms
+Send Event:              ATT!ATT_FIND_INFO_RSP{
+                           lcid=0x0040,
+                           format=0x01,
+                           numberOfHandleValuePairs=0x02,
+                           				{
+                             handle=0x00D5,
+                             uuid=0x2803
+					
+                           }				{
+                             handle=0x00D6,
+                             uuid=0x2A4E
+					
+                           }
+                         }
+
+
++17753 ms
+Receive Event:           ATT?ATT_WRITE_COMMAND_REQ{
+                           lcid=0x0040,
+                           attributeHandle=0x00D6,
+                           length=0x0001,
+                           attributeValue=0x00
+                         }
+
+
++30498 ms
+Receive Event:           ATT?ATT_WRITE_REQ{
+                           lcid=0x0040,
+                           attributeHandle=0x0076,
+                           length=0x0002,
+                           value=0x0001
+                         }
+
+
++30498 ms
+Send Event:              ATT!ATT_WRITE_RSP{
+                           lcid=0x0040,
+                           value{
+                             Properties=0x0001
+                           }
+
+                         }
+
+
++30498 ms
+Preliminary Verdict:     PASS
+
+
+
++30498 ms
+Verdict Description:     PASS: Successfully received Write Request with value = 0x0001.
+
+
+
++30514 ms
+Verdict Description:     Wait for IUT write to Client Configuration Characteristic Descriptor completed.
+
+
+
++30514 ms
+Preliminary Verdict:     PASS
+
+
+
++32245 ms
+Receive Event:           ATT?ATT_DISCONNECT_REQ{
+                           lcid=0x0040
+                         }
+
+
++32261 ms
+Receive Event:           HCI?HCI_LE_DISCONNECTION_COMPLETE_EVENT{
+                           status=HCI_OK,
+                           connectionHandle=0x004A,
+                           reason=HCI_OTHER_END_TERMINATED_USER_ENDED_CONNECTION
+                         }
+
+
++32261 ms
+Preliminary Verdict:     PASS
+
+
+
++32261 ms
+Verdict Description:     Connection terminated successfully.
+
+
+
++32261 ms
+Preliminary Verdict:     PASS
+
+
+
++34866 ms
+Final Verdict:           PASS
+
+
+
++34866 ms
+Encrypted Verdict:       A1#ZWY4MzQ5MDg3MmQwNTIxOGQzMzQ5YjY2ODA5M2MzNjQ5ZDY4NmY0Yjc2MzIzM2VkNTUyNTFhNGU4Mjg1MjI0NA==#siflQfM1FZiq3sShhrW7Et1QJk8ObrRjMb5MioSHdNVzuG7wduFfwYJZSlhAGrew
+
+
++34866 ms
+Test Case Ended:         TC_HGCF_BH_BV_03_I
+
+</LOG>
+  <SUMMARY>Test case : TC_HGCF_BH_BV_03_I started
+	- Connection established successfully.
+	- LE Security procedures completed successfully.
+	- Wait for IUT to write with handle = 0x0076, length = 2, value = 0x0001.
+	- PASS: Successfully received Write Request with value = 0x0001.
+	- Wait for IUT write to Client Configuration Characteristic Descriptor completed.
+	- Connection terminated successfully.
+Final Verdict:PASS
+TC_HGCF_BH_BV_03_I finished
+</SUMMARY>
+</ARCHIVE>

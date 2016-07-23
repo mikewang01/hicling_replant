@@ -1,0 +1,2977 @@
+Archive member included because of file (symbol)
+
+d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+                              ./src/main.o (__aeabi_uidiv)
+d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+                              ./sdk/peripherals/src/hw_tempsens.o (__aeabi_idiv)
+d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+                              d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+                              d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (exit)
+d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+                              d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+                              d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_init_array)
+d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcmp.o)
+                              ./src/main.o (memcmp)
+d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+                              ./src/flash.o (memcpy)
+d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memmove.o)
+                              ./src/main.o (memmove)
+d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+                              d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (memset)
+d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+                              d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .data          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .bss           0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .data          0x00000000        0x4 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .data          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .bss           0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.extab     0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .group         0x00000000        0x8 ./startup/config.o
+ .group         0x00000000        0x8 ./startup/config.o
+ .group         0x00000000        0x8 ./startup/config.o
+ .group         0x00000000        0x8 ./startup/config.o
+ .group         0x00000000        0x8 ./startup/config.o
+ .group         0x00000000        0x8 ./startup/config.o
+ .group         0x00000000        0x8 ./startup/config.o
+ .group         0x00000000        0x8 ./startup/config.o
+ .group         0x00000000        0x8 ./startup/config.o
+ .group         0x00000000        0x8 ./startup/config.o
+ .group         0x00000000        0x8 ./startup/config.o
+ .group         0x00000000        0x8 ./startup/config.o
+ .group         0x00000000        0x8 ./startup/config.o
+ .group         0x00000000        0x8 ./startup/config.o
+ .group         0x00000000        0x8 ./startup/config.o
+ .group         0x00000000        0x8 ./startup/config.o
+ .group         0x00000000        0x8 ./startup/config.o
+ .group         0x00000000        0x8 ./startup/config.o
+ .group         0x00000000        0x8 ./startup/config.o
+ .group         0x00000000        0x8 ./startup/config.o
+ .text          0x00000000        0x0 ./startup/config.o
+ .data          0x00000000        0x0 ./startup/config.o
+ .bss           0x00000000        0x0 ./startup/config.o
+ .data          0x00000000        0x0 ./startup/startup_ARMCM0.o
+ .bss           0x00000000        0x0 ./startup/startup_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .group         0x00000000        0x8 ./startup/system_ARMCM0.o
+ .text          0x00000000        0x0 ./startup/system_ARMCM0.o
+ .data          0x00000000        0x0 ./startup/system_ARMCM0.o
+ .bss           0x00000000        0x0 ./startup/system_ARMCM0.o
+ .rodata.NVMS_PARAM_PART_start
+                0x00000000        0x4 ./startup/system_ARMCM0.o
+ .rodata.NVMS_BIN_PART_start
+                0x00000000        0x4 ./startup/system_ARMCM0.o
+ .rodata.NVMS_GENERIC_PART_end
+                0x00000000        0x4 ./startup/system_ARMCM0.o
+ .rodata.NVMS_LOG_PART_end
+                0x00000000        0x4 ./startup/system_ARMCM0.o
+ .rodata.NVMS_PARTITION_TABLE_start
+                0x00000000        0x4 ./startup/system_ARMCM0.o
+ .rodata.NVMS_PARAM_PART_end
+                0x00000000        0x4 ./startup/system_ARMCM0.o
+ .rodata.NVMS_GENERIC_PART_start
+                0x00000000        0x4 ./startup/system_ARMCM0.o
+ .rodata.NVMS_BIN_PART_end
+                0x00000000        0x4 ./startup/system_ARMCM0.o
+ .rodata.NVMS_FIRMWARE_PART_start
+                0x00000000        0x4 ./startup/system_ARMCM0.o
+ .rodata.NVMS_LOG_PART_start
+                0x00000000        0x4 ./startup/system_ARMCM0.o
+ .rodata.NVMS_PARTITION_TABLE_end
+                0x00000000        0x4 ./startup/system_ARMCM0.o
+ .rodata.NVMS_FIRMWARE_PART_end
+                0x00000000        0x4 ./startup/system_ARMCM0.o
+ .debug_macro   0x00000000      0x820 ./startup/system_ARMCM0.o
+ .debug_macro   0x00000000      0x148 ./startup/system_ARMCM0.o
+ .debug_macro   0x00000000       0xb2 ./startup/system_ARMCM0.o
+ .debug_macro   0x00000000      0x38a ./startup/system_ARMCM0.o
+ .debug_macro   0x00000000       0x10 ./startup/system_ARMCM0.o
+ .debug_macro   0x00000000      0x288 ./startup/system_ARMCM0.o
+ .debug_macro   0x00000000       0x22 ./startup/system_ARMCM0.o
+ .debug_macro   0x00000000       0x1c ./startup/system_ARMCM0.o
+ .debug_macro   0x00000000      0x1f7 ./startup/system_ARMCM0.o
+ .debug_macro   0x00000000       0x22 ./startup/system_ARMCM0.o
+ .debug_macro   0x00000000       0x22 ./startup/system_ARMCM0.o
+ .debug_macro   0x00000000       0x3a ./startup/system_ARMCM0.o
+ .debug_macro   0x00000000       0x1f ./startup/system_ARMCM0.o
+ .debug_macro   0x00000000      0x22d ./startup/system_ARMCM0.o
+ .debug_macro   0x00000000       0x19 ./startup/system_ARMCM0.o
+ .debug_macro   0x00000000     0xc21a ./startup/system_ARMCM0.o
+ .debug_macro   0x00000000      0x294 ./startup/system_ARMCM0.o
+ .debug_macro   0x00000000       0x34 ./startup/system_ARMCM0.o
+ .text          0x00000000        0x0 ./startup/vector_table.o
+ .data          0x00000000        0x0 ./startup/vector_table.o
+ .bss           0x00000000        0x0 ./startup/vector_table.o
+ .group         0x00000000        0x8 ./src/crc16.o
+ .group         0x00000000        0x8 ./src/crc16.o
+ .group         0x00000000        0x8 ./src/crc16.o
+ .group         0x00000000        0x8 ./src/crc16.o
+ .group         0x00000000        0x8 ./src/crc16.o
+ .group         0x00000000        0x8 ./src/crc16.o
+ .group         0x00000000        0x8 ./src/crc16.o
+ .group         0x00000000        0x8 ./src/crc16.o
+ .group         0x00000000        0x8 ./src/crc16.o
+ .group         0x00000000        0x8 ./src/crc16.o
+ .group         0x00000000        0x8 ./src/crc16.o
+ .text          0x00000000        0x0 ./src/crc16.o
+ .data          0x00000000        0x0 ./src/crc16.o
+ .bss           0x00000000        0x0 ./src/crc16.o
+ .text.crc16_calculate
+                0x00000000       0x24 ./src/crc16.o
+ .debug_macro   0x00000000      0x820 ./src/crc16.o
+ .debug_macro   0x00000000      0x148 ./src/crc16.o
+ .debug_macro   0x00000000       0xb2 ./src/crc16.o
+ .debug_macro   0x00000000      0x38a ./src/crc16.o
+ .debug_macro   0x00000000       0x10 ./src/crc16.o
+ .debug_macro   0x00000000      0x288 ./src/crc16.o
+ .debug_macro   0x00000000      0x16d ./src/crc16.o
+ .debug_macro   0x00000000       0x22 ./src/crc16.o
+ .debug_macro   0x00000000       0x44 ./src/crc16.o
+ .debug_macro   0x00000000       0x1c ./src/crc16.o
+ .debug_macro   0x00000000      0x1f7 ./src/crc16.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .group         0x00000000        0x8 ./src/flash.o
+ .text          0x00000000        0x0 ./src/flash.o
+ .data          0x00000000        0x0 ./src/flash.o
+ .bss           0x00000000        0x0 ./src/flash.o
+ .debug_macro   0x00000000      0x820 ./src/flash.o
+ .debug_macro   0x00000000      0x148 ./src/flash.o
+ .debug_macro   0x00000000       0xb2 ./src/flash.o
+ .debug_macro   0x00000000      0x38a ./src/flash.o
+ .debug_macro   0x00000000       0x10 ./src/flash.o
+ .debug_macro   0x00000000      0x288 ./src/flash.o
+ .debug_macro   0x00000000       0x22 ./src/flash.o
+ .debug_macro   0x00000000       0x44 ./src/flash.o
+ .debug_macro   0x00000000       0x1c ./src/flash.o
+ .debug_macro   0x00000000      0x1f7 ./src/flash.o
+ .debug_macro   0x00000000       0x58 ./src/flash.o
+ .debug_macro   0x00000000       0x35 ./src/flash.o
+ .debug_macro   0x00000000       0x9c ./src/flash.o
+ .debug_macro   0x00000000      0x16d ./src/flash.o
+ .debug_macro   0x00000000       0x52 ./src/flash.o
+ .debug_macro   0x00000000       0x16 ./src/flash.o
+ .debug_macro   0x00000000       0x43 ./src/flash.o
+ .debug_macro   0x00000000      0x180 ./src/flash.o
+ .debug_macro   0x00000000      0x27a ./src/flash.o
+ .debug_macro   0x00000000       0x35 ./src/flash.o
+ .debug_macro   0x00000000       0x22 ./src/flash.o
+ .debug_macro   0x00000000       0x22 ./src/flash.o
+ .debug_macro   0x00000000       0x3a ./src/flash.o
+ .debug_macro   0x00000000       0x1f ./src/flash.o
+ .debug_macro   0x00000000      0x22d ./src/flash.o
+ .debug_macro   0x00000000       0x19 ./src/flash.o
+ .debug_macro   0x00000000     0xc21a ./src/flash.o
+ .debug_macro   0x00000000      0x294 ./src/flash.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .bss.uart_tx_done
+                0x00000000        0x1 ./src/main.o
+ .debug_macro   0x00000000      0x820 ./src/main.o
+ .debug_macro   0x00000000      0x148 ./src/main.o
+ .debug_macro   0x00000000       0xb2 ./src/main.o
+ .debug_macro   0x00000000      0x38a ./src/main.o
+ .debug_macro   0x00000000       0x10 ./src/main.o
+ .debug_macro   0x00000000      0x288 ./src/main.o
+ .debug_macro   0x00000000       0x58 ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000       0x35 ./src/main.o
+ .debug_macro   0x00000000       0x9c ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x4a ./src/main.o
+ .debug_macro   0x00000000       0x97 ./src/main.o
+ .debug_macro   0x00000000      0x27a ./src/main.o
+ .debug_macro   0x00000000       0xf6 ./src/main.o
+ .debug_macro   0x00000000       0x10 ./src/main.o
+ .debug_macro   0x00000000       0x52 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x43 ./src/main.o
+ .debug_macro   0x00000000      0x180 ./src/main.o
+ .debug_macro   0x00000000       0x10 ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000       0xbd ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000      0x196 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x35 ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000       0x3a ./src/main.o
+ .debug_macro   0x00000000       0x1c ./src/main.o
+ .debug_macro   0x00000000      0x1f7 ./src/main.o
+ .debug_macro   0x00000000       0x1f ./src/main.o
+ .debug_macro   0x00000000      0x22d ./src/main.o
+ .debug_macro   0x00000000       0x19 ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000     0xc21a ./src/main.o
+ .debug_macro   0x00000000      0x294 ./src/main.o
+ .debug_macro   0x00000000       0x94 ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000       0x10 ./src/main.o
+ .debug_macro   0x00000000       0x40 ./src/main.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_aes_hash.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_aes_hash.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_aes_hash.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_aes_hash.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_aes_hash.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_aes_hash.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_aes_hash.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_aes_hash.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_aes_hash.o
+ .debug_info    0x00000000       0x1d ./sdk/peripherals/src/hw_aes_hash.o
+ .debug_abbrev  0x00000000       0x11 ./sdk/peripherals/src/hw_aes_hash.o
+ .debug_aranges
+                0x00000000       0x18 ./sdk/peripherals/src/hw_aes_hash.o
+ .debug_macro   0x00000000       0x4c ./sdk/peripherals/src/hw_aes_hash.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_aes_hash.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_aes_hash.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_aes_hash.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_aes_hash.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_aes_hash.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_aes_hash.o
+ .debug_line    0x00000000      0x165 ./sdk/peripherals/src/hw_aes_hash.o
+ .debug_str     0x00000000     0x577a ./sdk/peripherals/src/hw_aes_hash.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_aes_hash.o
+ .ARM.attributes
+                0x00000000       0x31 ./sdk/peripherals/src/hw_aes_hash.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_cpm.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_cpm.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_cpm.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_cpm.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_cpm.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_cpm.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_cpm.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_cpm.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_cpm.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_cpm.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_cpm.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_cpm.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_cpm.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_cpm.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_cpm.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_cpm.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_cpm.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_cpm.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_cpm.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_cpm.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_cpm.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_cpm.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_cpm.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_cpm.o
+ .text.hw_cpm_sysclk_is_rc16
+                0x00000000       0x18 ./sdk/peripherals/src/hw_cpm.o
+ .text.hw_cpm_sysclk_is_xtal16m
+                0x00000000       0x14 ./sdk/peripherals/src/hw_cpm.o
+ .text.hw_cpm_is_rc16_allowed
+                0x00000000       0xc4 ./sdk/peripherals/src/hw_cpm.o
+ .text.hw_cpm_short_delay
+                0x00000000       0x18 ./sdk/peripherals/src/hw_cpm.o
+ .text.hw_cpm_pll_sys_on
+                0x00000000       0x44 ./sdk/peripherals/src/hw_cpm.o
+ .text.hw_cpm_pll_sys_off
+                0x00000000       0x18 ./sdk/peripherals/src/hw_cpm.o
+ .text.hw_cpm_start_calibration
+                0x00000000       0x44 ./sdk/peripherals/src/hw_cpm.o
+ .text.hw_cpm_get_calibration_data
+                0x00000000       0x20 ./sdk/peripherals/src/hw_cpm.o
+ .text.hw_cpm_dcdc_config
+                0x00000000       0x98 ./sdk/peripherals/src/hw_cpm.o
+ .text.hw_cpm_dcdc_on
+                0x00000000       0x78 ./sdk/peripherals/src/hw_cpm.o
+ .text.hw_cpm_configure_xtal32k_pins
+                0x00000000       0x10 ./sdk/peripherals/src/hw_cpm.o
+ .text.hw_cpm_trigger_sw_cursor
+                0x00000000       0x40 ./sdk/peripherals/src/hw_cpm.o
+ .text.hw_cpm_reset_system
+                0x00000000       0x18 ./sdk/peripherals/src/hw_cpm.o
+ .text.hw_cpm_reboot_system
+                0x00000000       0x1c ./sdk/peripherals/src/hw_cpm.o
+ .text.hw_cpm_activate_bod_protection
+                0x00000000       0x34 ./sdk/peripherals/src/hw_cpm.o
+ .text.hw_cpm_activate_bod_protection_at_init
+                0x00000000       0x34 ./sdk/peripherals/src/hw_cpm.o
+ .text.hw_cpm_delay_usec
+                0x00000000       0xac ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x00000000       0x44 ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x00000000       0x1c ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x00000000      0x1f7 ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x00000000      0x16d ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x00000000       0x3a ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x00000000       0x1f ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x00000000      0x22d ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x00000000       0x19 ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x00000000     0xc21a ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x00000000      0x294 ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_cpm.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_dma.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_dma.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_dma.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_dma.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_dma.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_dma.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_dma.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_dma.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_dma.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_dma.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_dma.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_dma.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_dma.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_dma.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_dma.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_dma.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_dma.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_dma.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_dma.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_dma.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_dma.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_dma.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_dma.o
+ .text.hw_dma_channel_active
+                0x00000000       0x34 ./sdk/peripherals/src/hw_dma.o
+ .text.hw_dma_transfered_bytes
+                0x00000000       0x10 ./sdk/peripherals/src/hw_dma.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_dma.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_dma.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_dma.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_dma.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_dma.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_dma.o
+ .debug_macro   0x00000000       0x3a ./sdk/peripherals/src/hw_dma.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_dma.o
+ .debug_macro   0x00000000       0x44 ./sdk/peripherals/src/hw_dma.o
+ .debug_macro   0x00000000       0x1c ./sdk/peripherals/src/hw_dma.o
+ .debug_macro   0x00000000      0x1f7 ./sdk/peripherals/src/hw_dma.o
+ .debug_macro   0x00000000       0x1f ./sdk/peripherals/src/hw_dma.o
+ .debug_macro   0x00000000      0x22d ./sdk/peripherals/src/hw_dma.o
+ .debug_macro   0x00000000      0x16d ./sdk/peripherals/src/hw_dma.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_dma.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_dma.o
+ .debug_macro   0x00000000     0xc21a ./sdk/peripherals/src/hw_dma.o
+ .debug_macro   0x00000000      0x294 ./sdk/peripherals/src/hw_dma.o
+ .debug_macro   0x00000000       0x19 ./sdk/peripherals/src/hw_dma.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .debug_info    0x00000000       0x1d ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .debug_abbrev  0x00000000       0x11 ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .debug_aranges
+                0x00000000       0x18 ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .debug_macro   0x00000000       0x4c ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .debug_line    0x00000000      0x16c ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .debug_str     0x00000000     0x5781 ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .ARM.attributes
+                0x00000000       0x31 ./sdk/peripherals/src/hw_fem_sky66112-11.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpadc.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_gpadc.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_gpadc.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_gpadc.o
+ .text.hw_gpadc_reset
+                0x00000000       0x24 ./sdk/peripherals/src/hw_gpadc.o
+ .text.hw_gpadc_configure
+                0x00000000       0xbc ./sdk/peripherals/src/hw_gpadc.o
+ .text.hw_gpadc_init
+                0x00000000       0x28 ./sdk/peripherals/src/hw_gpadc.o
+ .text.hw_gpadc_register_interrupt
+                0x00000000       0x24 ./sdk/peripherals/src/hw_gpadc.o
+ .text.hw_gpadc_unregister_interrupt
+                0x00000000       0x28 ./sdk/peripherals/src/hw_gpadc.o
+ .text.hw_gpadc_adc_measure
+                0x00000000       0x20 ./sdk/peripherals/src/hw_gpadc.o
+ .text.hw_gpadc_calibrate
+                0x00000000      0x140 ./sdk/peripherals/src/hw_gpadc.o
+ .text.hw_gpadc_test_measurements
+                0x00000000      0x134 ./sdk/peripherals/src/hw_gpadc.o
+ retention_mem_zi
+                0x00000000        0x4 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x58 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x35 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x9c ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x16 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x4a ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x97 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000      0x27a ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0xf6 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x52 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x16 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x43 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000      0x180 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0xbd ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x16 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000      0x196 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x16 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x35 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x1c ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000      0x1f7 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x3a ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x1f ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000      0x22d ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000       0x19 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000     0xc21a ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x00000000      0x294 ./sdk/peripherals/src/hw_gpadc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_gpio.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_gpio.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_gpio.o
+ .text.hw_gpio_reserve_pin
+                0x00000000       0x2c ./sdk/peripherals/src/hw_gpio.o
+ .text.hw_gpio_unreserve_pin
+                0x00000000       0x14 ./sdk/peripherals/src/hw_gpio.o
+ .text.hw_gpio_get_pin_function
+                0x00000000       0x20 ./sdk/peripherals/src/hw_gpio.o
+ .text.hw_gpio_configure_pin_power
+                0x00000000       0x28 ./sdk/peripherals/src/hw_gpio.o
+ .text.hw_gpio_set_active
+                0x00000000       0x14 ./sdk/peripherals/src/hw_gpio.o
+ .text.hw_gpio_set_inactive
+                0x00000000       0x14 ./sdk/peripherals/src/hw_gpio.o
+ .text.hw_gpio_configure_pin
+                0x00000000       0x2c ./sdk/peripherals/src/hw_gpio.o
+ .text.hw_gpio_reserve_and_configure_pin
+                0x00000000       0x2c ./sdk/peripherals/src/hw_gpio.o
+ .text.hw_gpio_configure
+                0x00000000       0x88 ./sdk/peripherals/src/hw_gpio.o
+ .text.hw_gpio_get_pin_status
+                0x00000000       0x14 ./sdk/peripherals/src/hw_gpio.o
+ .text.hw_gpio_toggle
+                0x00000000       0x24 ./sdk/peripherals/src/hw_gpio.o
+ .text.hw_gpio_get_pins_with_function
+                0x00000000       0x70 ./sdk/peripherals/src/hw_gpio.o
+ .rodata.hw_gpio_port_num_pins
+                0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .bss.GPIO_status
+                0x00000000        0x8 ./sdk/peripherals/src/hw_gpio.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_gpio.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_gpio.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_gpio.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_gpio.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_gpio.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_gpio.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_gpio.o
+ .debug_macro   0x00000000       0x44 ./sdk/peripherals/src/hw_gpio.o
+ .debug_macro   0x00000000       0x1c ./sdk/peripherals/src/hw_gpio.o
+ .debug_macro   0x00000000      0x1f7 ./sdk/peripherals/src/hw_gpio.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_gpio.o
+ .debug_macro   0x00000000      0x16d ./sdk/peripherals/src/hw_gpio.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_gpio.o
+ .debug_macro   0x00000000       0x3a ./sdk/peripherals/src/hw_gpio.o
+ .debug_macro   0x00000000       0x1f ./sdk/peripherals/src/hw_gpio.o
+ .debug_macro   0x00000000      0x22d ./sdk/peripherals/src/hw_gpio.o
+ .debug_macro   0x00000000       0x19 ./sdk/peripherals/src/hw_gpio.o
+ .debug_macro   0x00000000     0xc21a ./sdk/peripherals/src/hw_gpio.o
+ .debug_macro   0x00000000      0x294 ./sdk/peripherals/src/hw_gpio.o
+ .debug_macro   0x00000000       0x4a ./sdk/peripherals/src/hw_gpio.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_hard_fault.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_hard_fault.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_hard_fault.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_hard_fault.o
+ hard_fault_info
+                0x00000000       0x24 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x44 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x1c ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000      0x1f7 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x58 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x35 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x9c ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x16 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x97 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000      0x27a ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0xf6 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x52 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x16 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x43 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000      0x180 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0xbd ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x16 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000      0x196 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x3a ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x1f ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000      0x22d ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x19 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000     0xc21a ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000      0x294 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x00000000       0x40 ./sdk/peripherals/src/hw_hard_fault.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_i2c.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_i2c.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_i2c.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_i2c.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_i2c.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_i2c.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_i2c.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_i2c.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_i2c.o
+ .debug_info    0x00000000       0x1d ./sdk/peripherals/src/hw_i2c.o
+ .debug_abbrev  0x00000000       0x11 ./sdk/peripherals/src/hw_i2c.o
+ .debug_aranges
+                0x00000000       0x18 ./sdk/peripherals/src/hw_i2c.o
+ .debug_macro   0x00000000       0x4c ./sdk/peripherals/src/hw_i2c.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_i2c.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_i2c.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_i2c.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_i2c.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_i2c.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_i2c.o
+ .debug_line    0x00000000      0x160 ./sdk/peripherals/src/hw_i2c.o
+ .debug_str     0x00000000     0x5775 ./sdk/peripherals/src/hw_i2c.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_i2c.o
+ .ARM.attributes
+                0x00000000       0x31 ./sdk/peripherals/src/hw_i2c.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_irgen.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_irgen.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_irgen.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_irgen.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_irgen.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_irgen.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_irgen.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_irgen.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_irgen.o
+ .debug_info    0x00000000       0x1d ./sdk/peripherals/src/hw_irgen.o
+ .debug_abbrev  0x00000000       0x11 ./sdk/peripherals/src/hw_irgen.o
+ .debug_aranges
+                0x00000000       0x18 ./sdk/peripherals/src/hw_irgen.o
+ .debug_macro   0x00000000       0x4c ./sdk/peripherals/src/hw_irgen.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_irgen.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_irgen.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_irgen.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_irgen.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_irgen.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_irgen.o
+ .debug_line    0x00000000      0x162 ./sdk/peripherals/src/hw_irgen.o
+ .debug_str     0x00000000     0x5777 ./sdk/peripherals/src/hw_irgen.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_irgen.o
+ .ARM.attributes
+                0x00000000       0x31 ./sdk/peripherals/src/hw_irgen.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .debug_info    0x00000000       0x1d ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .debug_abbrev  0x00000000       0x11 ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .debug_aranges
+                0x00000000       0x18 ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .debug_macro   0x00000000       0x4c ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .debug_line    0x00000000      0x16d ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .debug_str     0x00000000     0x5782 ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .ARM.attributes
+                0x00000000       0x31 ./sdk/peripherals/src/hw_keyboard_scanner.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_otpc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_otpc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_otpc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_otpc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_otpc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_otpc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_otpc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_otpc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_otpc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_otpc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_otpc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_otpc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_otpc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_otpc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_otpc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_otpc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_otpc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_otpc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_otpc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_otpc.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_otpc.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_otpc.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_otpc.o
+ .text.manual_prog_verify
+                0x00000000       0x84 ./sdk/peripherals/src/hw_otpc.o
+ .text.hw_otpc_core_test
+                0x00000000       0x48 ./sdk/peripherals/src/hw_otpc.o
+ .text.hw_otpc_convert_sys_clk_mhz
+                0x00000000       0xa8 ./sdk/peripherals/src/hw_otpc.o
+ .text.hw_otpc_power_save
+                0x00000000       0x34 ./sdk/peripherals/src/hw_otpc.o
+ .text.hw_otpc_num_of_rr
+                0x00000000       0x74 ./sdk/peripherals/src/hw_otpc.o
+ .text.hw_otpc_write_rr
+                0x00000000       0xa8 ./sdk/peripherals/src/hw_otpc.o
+ .text.hw_otpc_manual_word_prog
+                0x00000000      0x110 ./sdk/peripherals/src/hw_otpc.o
+ .text.hw_otpc_manual_prog
+                0x00000000      0x128 ./sdk/peripherals/src/hw_otpc.o
+ .text.hw_otpc_dma_read
+                0x00000000       0xf8 ./sdk/peripherals/src/hw_otpc.o
+ .text.hw_otpc_fifo_prog
+                0x00000000       0xdc ./sdk/peripherals/src/hw_otpc.o
+ .text.hw_otpc_prepare
+                0x00000000       0x98 ./sdk/peripherals/src/hw_otpc.o
+ .text.hw_otpc_cancel_prepare
+                0x00000000       0x64 ./sdk/peripherals/src/hw_otpc.o
+ .text.hw_otpc_blank
+                0x00000000        0xc ./sdk/peripherals/src/hw_otpc.o
+ .text.hw_otpc_tdec
+                0x00000000        0xc ./sdk/peripherals/src/hw_otpc.o
+ .text.hw_otpc_twr
+                0x00000000        0xc ./sdk/peripherals/src/hw_otpc.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_otpc.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_otpc.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_otpc.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_otpc.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_otpc.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_otpc.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_otpc.o
+ .debug_macro   0x00000000       0x44 ./sdk/peripherals/src/hw_otpc.o
+ .debug_macro   0x00000000       0x1c ./sdk/peripherals/src/hw_otpc.o
+ .debug_macro   0x00000000      0x1f7 ./sdk/peripherals/src/hw_otpc.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_otpc.o
+ .debug_macro   0x00000000      0x16d ./sdk/peripherals/src/hw_otpc.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_otpc.o
+ .debug_macro   0x00000000       0x3a ./sdk/peripherals/src/hw_otpc.o
+ .debug_macro   0x00000000       0x1f ./sdk/peripherals/src/hw_otpc.o
+ .debug_macro   0x00000000      0x22d ./sdk/peripherals/src/hw_otpc.o
+ .debug_macro   0x00000000       0x19 ./sdk/peripherals/src/hw_otpc.o
+ .debug_macro   0x00000000     0xc21a ./sdk/peripherals/src/hw_otpc.o
+ .debug_macro   0x00000000      0x294 ./sdk/peripherals/src/hw_otpc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_qspi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_qspi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_qspi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_qspi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_qspi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_qspi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_qspi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_qspi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_qspi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_qspi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_qspi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_qspi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_qspi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_qspi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_qspi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_qspi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_qspi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_qspi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_qspi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_qspi.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_qspi.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_qspi.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_qspi.o
+ .text.hw_qspi_set_wrapping_burst_instruction
+                0x00000000       0x40 ./sdk/peripherals/src/hw_qspi.o
+ .text.hw_qspi_set_dummy_bytes_count
+                0x00000000       0x38 ./sdk/peripherals/src/hw_qspi.o
+ .text.hw_qspi_erase_block
+                0x00000000       0x5c ./sdk/peripherals/src/hw_qspi.o
+ .text.hw_qspi_set_pads
+                0x00000000       0x18 ./sdk/peripherals/src/hw_qspi.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_qspi.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_qspi.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_qspi.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_qspi.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_qspi.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_qspi.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_qspi.o
+ .debug_macro   0x00000000       0x44 ./sdk/peripherals/src/hw_qspi.o
+ .debug_macro   0x00000000       0x1c ./sdk/peripherals/src/hw_qspi.o
+ .debug_macro   0x00000000      0x1f7 ./sdk/peripherals/src/hw_qspi.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_qspi.o
+ .debug_macro   0x00000000      0x16d ./sdk/peripherals/src/hw_qspi.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_qspi.o
+ .debug_macro   0x00000000       0x3a ./sdk/peripherals/src/hw_qspi.o
+ .debug_macro   0x00000000       0x1f ./sdk/peripherals/src/hw_qspi.o
+ .debug_macro   0x00000000      0x22d ./sdk/peripherals/src/hw_qspi.o
+ .debug_macro   0x00000000       0x19 ./sdk/peripherals/src/hw_qspi.o
+ .debug_macro   0x00000000     0xc21a ./sdk/peripherals/src/hw_qspi.o
+ .debug_macro   0x00000000      0x294 ./sdk/peripherals/src/hw_qspi.o
+ .debug_macro   0x00000000       0x1c ./sdk/peripherals/src/hw_qspi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_quad.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_quad.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_quad.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_quad.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_quad.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_quad.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_quad.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_quad.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_quad.o
+ .debug_info    0x00000000       0x1d ./sdk/peripherals/src/hw_quad.o
+ .debug_abbrev  0x00000000       0x11 ./sdk/peripherals/src/hw_quad.o
+ .debug_aranges
+                0x00000000       0x18 ./sdk/peripherals/src/hw_quad.o
+ .debug_macro   0x00000000       0x4c ./sdk/peripherals/src/hw_quad.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_quad.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_quad.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_quad.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_quad.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_quad.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_quad.o
+ .debug_line    0x00000000      0x161 ./sdk/peripherals/src/hw_quad.o
+ .debug_str     0x00000000     0x5776 ./sdk/peripherals/src/hw_quad.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_quad.o
+ .ARM.attributes
+                0x00000000       0x31 ./sdk/peripherals/src/hw_quad.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_rf.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_rf.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_rf.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_rf.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_rf.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_rf.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_rf.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_rf.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_rf.o
+ .debug_info    0x00000000       0x1d ./sdk/peripherals/src/hw_rf.o
+ .debug_abbrev  0x00000000       0x11 ./sdk/peripherals/src/hw_rf.o
+ .debug_aranges
+                0x00000000       0x18 ./sdk/peripherals/src/hw_rf.o
+ .debug_macro   0x00000000       0x4c ./sdk/peripherals/src/hw_rf.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_rf.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_rf.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_rf.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_rf.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_rf.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_rf.o
+ .debug_line    0x00000000      0x15f ./sdk/peripherals/src/hw_rf.o
+ .debug_str     0x00000000     0x5774 ./sdk/peripherals/src/hw_rf.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_rf.o
+ .ARM.attributes
+                0x00000000       0x31 ./sdk/peripherals/src/hw_rf.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_soc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_soc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_soc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_soc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_soc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_soc.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_soc.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_soc.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_soc.o
+ .debug_info    0x00000000       0x1d ./sdk/peripherals/src/hw_soc.o
+ .debug_abbrev  0x00000000       0x11 ./sdk/peripherals/src/hw_soc.o
+ .debug_aranges
+                0x00000000       0x18 ./sdk/peripherals/src/hw_soc.o
+ .debug_macro   0x00000000       0x4c ./sdk/peripherals/src/hw_soc.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_soc.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_soc.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_soc.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_soc.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_soc.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_soc.o
+ .debug_line    0x00000000      0x160 ./sdk/peripherals/src/hw_soc.o
+ .debug_str     0x00000000     0x5775 ./sdk/peripherals/src/hw_soc.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_soc.o
+ .ARM.attributes
+                0x00000000       0x31 ./sdk/peripherals/src/hw_soc.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_spi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_spi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_spi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_spi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_spi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_spi.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_spi.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_spi.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_spi.o
+ .debug_info    0x00000000       0x1d ./sdk/peripherals/src/hw_spi.o
+ .debug_abbrev  0x00000000       0x11 ./sdk/peripherals/src/hw_spi.o
+ .debug_aranges
+                0x00000000       0x18 ./sdk/peripherals/src/hw_spi.o
+ .debug_macro   0x00000000       0x4c ./sdk/peripherals/src/hw_spi.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_spi.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_spi.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_spi.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_spi.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_spi.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_spi.o
+ .debug_line    0x00000000      0x160 ./sdk/peripherals/src/hw_spi.o
+ .debug_str     0x00000000     0x5775 ./sdk/peripherals/src/hw_spi.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_spi.o
+ .ARM.attributes
+                0x00000000       0x31 ./sdk/peripherals/src/hw_spi.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_tempsens.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_tempsens.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_tempsens.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_tempsens.o
+ .text.hw_tempsens_enable
+                0x00000000       0x30 ./sdk/peripherals/src/hw_tempsens.o
+ .text.hw_tempsens_disable
+                0x00000000       0x20 ./sdk/peripherals/src/hw_tempsens.o
+ .text.hw_tempsens_prepare
+                0x00000000       0x24 ./sdk/peripherals/src/hw_tempsens.o
+ .text.hw_tempsens_convert_to_temperature
+                0x00000000       0x18 ./sdk/peripherals/src/hw_tempsens.o
+ .text.hw_tempsens_raw_read
+                0x00000000       0x68 ./sdk/peripherals/src/hw_tempsens.o
+ .text.hw_tempsens_read
+                0x00000000        0xc ./sdk/peripherals/src/hw_tempsens.o
+ .bss.charger_test_prev
+                0x00000000        0x4 ./sdk/peripherals/src/hw_tempsens.o
+ .bss.charger_on
+                0x00000000        0x1 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_info    0x00000000      0x68e ./sdk/peripherals/src/hw_tempsens.o
+ .debug_abbrev  0x00000000      0x2ab ./sdk/peripherals/src/hw_tempsens.o
+ .debug_loc     0x00000000       0x34 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_aranges
+                0x00000000       0x48 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_ranges  0x00000000       0x38 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000      0x20a ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x58 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x35 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x9c ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x16 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x4a ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x97 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000      0x27a ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0xf6 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x52 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x16 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x43 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000      0x180 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0xbd ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x16 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000      0x196 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x16 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x35 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x1c ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000      0x1f7 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x3a ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x1f ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000      0x22d ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x19 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000     0xc21a ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000      0x294 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_macro   0x00000000       0x34 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_line    0x00000000      0x631 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_str     0x00000000    0x60c4e ./sdk/peripherals/src/hw_tempsens.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_tempsens.o
+ .debug_frame   0x00000000       0x8c ./sdk/peripherals/src/hw_tempsens.o
+ .ARM.attributes
+                0x00000000       0x31 ./sdk/peripherals/src/hw_tempsens.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer0.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer0.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer0.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer0.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer0.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer0.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_timer0.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_timer0.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_timer0.o
+ .debug_info    0x00000000       0x1d ./sdk/peripherals/src/hw_timer0.o
+ .debug_abbrev  0x00000000       0x11 ./sdk/peripherals/src/hw_timer0.o
+ .debug_aranges
+                0x00000000       0x18 ./sdk/peripherals/src/hw_timer0.o
+ .debug_macro   0x00000000       0x4c ./sdk/peripherals/src/hw_timer0.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_timer0.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_timer0.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_timer0.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_timer0.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_timer0.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_timer0.o
+ .debug_line    0x00000000      0x163 ./sdk/peripherals/src/hw_timer0.o
+ .debug_str     0x00000000     0x5778 ./sdk/peripherals/src/hw_timer0.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_timer0.o
+ .ARM.attributes
+                0x00000000       0x31 ./sdk/peripherals/src/hw_timer0.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer1.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_timer1.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_timer1.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_timer1.o
+ .text.hw_timer1_unregister_int
+                0x00000000       0x28 ./sdk/peripherals/src/hw_timer1.o
+ .text.hw_timer1_trigger_int
+                0x00000000       0x14 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x58 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x35 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x9c ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x16 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x4a ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x97 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000      0x27a ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0xf6 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x52 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x16 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x43 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000      0x180 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0xbd ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x16 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000      0x196 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x3a ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x1c ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000      0x1f7 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x1f ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000      0x22d ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x19 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000     0xc21a ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000      0x294 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x00000000       0x2e ./sdk/peripherals/src/hw_timer1.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer2.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer2.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer2.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer2.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer2.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_timer2.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_timer2.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_timer2.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_timer2.o
+ .debug_info    0x00000000       0x1d ./sdk/peripherals/src/hw_timer2.o
+ .debug_abbrev  0x00000000       0x11 ./sdk/peripherals/src/hw_timer2.o
+ .debug_aranges
+                0x00000000       0x18 ./sdk/peripherals/src/hw_timer2.o
+ .debug_macro   0x00000000       0x4c ./sdk/peripherals/src/hw_timer2.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_timer2.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_timer2.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_timer2.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_timer2.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_timer2.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_timer2.o
+ .debug_line    0x00000000      0x163 ./sdk/peripherals/src/hw_timer2.o
+ .debug_str     0x00000000     0x5778 ./sdk/peripherals/src/hw_timer2.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_timer2.o
+ .ARM.attributes
+                0x00000000       0x31 ./sdk/peripherals/src/hw_timer2.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_trng.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_trng.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_trng.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_trng.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_trng.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_trng.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_trng.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_trng.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_trng.o
+ .debug_info    0x00000000       0x1d ./sdk/peripherals/src/hw_trng.o
+ .debug_abbrev  0x00000000       0x11 ./sdk/peripherals/src/hw_trng.o
+ .debug_aranges
+                0x00000000       0x18 ./sdk/peripherals/src/hw_trng.o
+ .debug_macro   0x00000000       0x4c ./sdk/peripherals/src/hw_trng.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_trng.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_trng.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_trng.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_trng.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_trng.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_trng.o
+ .debug_line    0x00000000      0x161 ./sdk/peripherals/src/hw_trng.o
+ .debug_str     0x00000000     0x5776 ./sdk/peripherals/src/hw_trng.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_trng.o
+ .ARM.attributes
+                0x00000000       0x31 ./sdk/peripherals/src/hw_trng.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_uart.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_uart.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_peek_received
+                0x00000000       0x40 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_baudrate_get
+                0x00000000       0x28 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_baudrate_set
+                0x00000000       0x24 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_fifo_en_getf
+                0x00000000       0x40 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_tx_fifo_tr_lvl_getf
+                0x00000000       0x2c ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_set_dma_channels
+                0x00000000      0x170 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_init_ex
+                0x00000000      0x1ec ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_reinit_ex
+                0x00000000      0x19c ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_reinit
+                0x00000000      0x190 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_sire_getf
+                0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_sire_setf
+                0x00000000       0x14 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_afce_getf
+                0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_cfg_get
+                0x00000000       0xc8 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_afce_setf
+                0x00000000       0x14 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_loopback_getf
+                0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_loopback_setf
+                0x00000000       0x14 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_rts_getf
+                0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_rts_setf
+                0x00000000       0x14 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_rx_fifo_err_getf
+                0x00000000       0x28 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_is_tx_fifo_empty
+                0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_break_int_getf
+                0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_frame_err_getf
+                0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_parity_err_getf
+                0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_overrun_err_getf
+                0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_cts_getf
+                0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_delta_cts_getf
+                0x00000000        0x8 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_tx_in_progress
+                0x00000000       0x24 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_rx_in_progress
+                0x00000000       0x24 ./sdk/peripherals/src/hw_uart.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_uart.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_uart.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_uart.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_uart.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_uart.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_uart.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_uart.o
+ .debug_macro   0x00000000       0x44 ./sdk/peripherals/src/hw_uart.o
+ .debug_macro   0x00000000       0x1c ./sdk/peripherals/src/hw_uart.o
+ .debug_macro   0x00000000      0x1f7 ./sdk/peripherals/src/hw_uart.o
+ .debug_macro   0x00000000       0x3a ./sdk/peripherals/src/hw_uart.o
+ .debug_macro   0x00000000       0x1f ./sdk/peripherals/src/hw_uart.o
+ .debug_macro   0x00000000      0x22d ./sdk/peripherals/src/hw_uart.o
+ .debug_macro   0x00000000      0x16d ./sdk/peripherals/src/hw_uart.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_uart.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_uart.o
+ .debug_macro   0x00000000     0xc21a ./sdk/peripherals/src/hw_uart.o
+ .debug_macro   0x00000000      0x294 ./sdk/peripherals/src/hw_uart.o
+ .debug_macro   0x00000000       0x19 ./sdk/peripherals/src/hw_uart.o
+ .debug_macro   0x00000000       0x34 ./sdk/peripherals/src/hw_uart.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_usb_charger.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_usb_charger.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_usb_charger.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_usb_charger.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_usb_charger.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_usb_charger.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_usb_charger.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_usb_charger.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_usb_charger.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_usb_charger.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_usb_charger.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_usb_charger.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_usb_charger.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_usb_charger.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_usb_charger.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_usb_charger.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_usb_charger.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_usb_charger.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_usb_charger.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_usb_charger.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_usb_charger.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_usb_charger.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_usb_charger.o
+ .text.hw_charger_check_vbus
+                0x00000000       0x28 ./sdk/peripherals/src/hw_usb_charger.o
+ .text.hw_charger_enable_vbus_irq
+                0x00000000       0x18 ./sdk/peripherals/src/hw_usb_charger.o
+ .text.hw_charger_enable_charger_irq
+                0x00000000       0x20 ./sdk/peripherals/src/hw_usb_charger.o
+ .text.hw_charger_configure_usb_pins
+                0x00000000       0x10 ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_macro   0x00000000       0x44 ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_macro   0x00000000       0x1c ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_macro   0x00000000      0x1f7 ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_macro   0x00000000      0x16d ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_macro   0x00000000       0x3a ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_macro   0x00000000       0x1f ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_macro   0x00000000      0x22d ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_macro   0x00000000       0x19 ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_macro   0x00000000     0xc21a ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_macro   0x00000000      0x294 ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_macro   0x00000000       0x34 ./sdk/peripherals/src/hw_usb_charger.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_watchdog.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_watchdog.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_watchdog.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_watchdog.o
+ .text.hw_watchdog_unfreeze
+                0x00000000        0xc ./sdk/peripherals/src/hw_watchdog.o
+ .text.hw_watchdog_is_irq_or_rst_gen
+                0x00000000       0x14 ./sdk/peripherals/src/hw_watchdog.o
+ .text.hw_watchdog_register_int
+                0x00000000        0xc ./sdk/peripherals/src/hw_watchdog.o
+ .text.hw_watchdog_unregister_int
+                0x00000000        0xc ./sdk/peripherals/src/hw_watchdog.o
+ nmi_info       0x00000000       0x24 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x58 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x35 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x9c ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x16 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x4a ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x97 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000      0x27a ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0xf6 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x52 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x16 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x43 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000      0x180 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0xbd ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x16 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000      0x196 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x1c ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000      0x1f7 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x3a ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x1f ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000      0x22d ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x19 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000     0xc21a ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000      0x294 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x00000000       0x40 ./sdk/peripherals/src/hw_watchdog.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/hw_wkup.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/hw_wkup.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/hw_wkup.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/hw_wkup.o
+ .text.hw_wkup_configure
+                0x00000000       0x5c ./sdk/peripherals/src/hw_wkup.o
+ .text.hw_wkup_init
+                0x00000000       0x6c ./sdk/peripherals/src/hw_wkup.o
+ .text.hw_wkup_register_interrupt
+                0x00000000       0x48 ./sdk/peripherals/src/hw_wkup.o
+ .text.hw_wkup_unregister_interrupt
+                0x00000000       0x28 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x58 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x35 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x9c ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x16 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x4a ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x97 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000      0x27a ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0xf6 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x52 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x16 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x43 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000      0x180 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0xbd ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x16 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000      0x196 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x16 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x35 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x1c ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000      0x1f7 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x3a ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x1f ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000      0x22d ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x19 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000     0xc21a ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000      0x294 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00000000       0x50 ./sdk/peripherals/src/hw_wkup.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/sys_tcs.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/sys_tcs.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/sys_tcs.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/sys_tcs.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/sys_tcs.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/sys_tcs.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/sys_tcs.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/sys_tcs.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/sys_tcs.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/sys_tcs.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/sys_tcs.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/sys_tcs.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/sys_tcs.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/sys_tcs.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/sys_tcs.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/sys_tcs.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/sys_tcs.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/sys_tcs.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/sys_tcs.o
+ .group         0x00000000        0x8 ./sdk/peripherals/src/sys_tcs.o
+ .text          0x00000000        0x0 ./sdk/peripherals/src/sys_tcs.o
+ .data          0x00000000        0x0 ./sdk/peripherals/src/sys_tcs.o
+ .bss           0x00000000        0x0 ./sdk/peripherals/src/sys_tcs.o
+ .debug_macro   0x00000000      0x820 ./sdk/peripherals/src/sys_tcs.o
+ .debug_macro   0x00000000      0x148 ./sdk/peripherals/src/sys_tcs.o
+ .debug_macro   0x00000000       0xb2 ./sdk/peripherals/src/sys_tcs.o
+ .debug_macro   0x00000000      0x38a ./sdk/peripherals/src/sys_tcs.o
+ .debug_macro   0x00000000       0x10 ./sdk/peripherals/src/sys_tcs.o
+ .debug_macro   0x00000000      0x288 ./sdk/peripherals/src/sys_tcs.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/sys_tcs.o
+ .debug_macro   0x00000000       0x44 ./sdk/peripherals/src/sys_tcs.o
+ .debug_macro   0x00000000       0x1c ./sdk/peripherals/src/sys_tcs.o
+ .debug_macro   0x00000000      0x1f7 ./sdk/peripherals/src/sys_tcs.o
+ .debug_macro   0x00000000      0x16d ./sdk/peripherals/src/sys_tcs.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/sys_tcs.o
+ .debug_macro   0x00000000       0x3a ./sdk/peripherals/src/sys_tcs.o
+ .debug_macro   0x00000000       0x1f ./sdk/peripherals/src/sys_tcs.o
+ .debug_macro   0x00000000      0x22d ./sdk/peripherals/src/sys_tcs.o
+ .debug_macro   0x00000000       0x19 ./sdk/peripherals/src/sys_tcs.o
+ .debug_macro   0x00000000       0x22 ./sdk/peripherals/src/sys_tcs.o
+ .debug_macro   0x00000000     0xc21a ./sdk/peripherals/src/sys_tcs.o
+ .debug_macro   0x00000000      0x294 ./sdk/peripherals/src/sys_tcs.o
+ .debug_macro   0x00000000       0x3a ./sdk/peripherals/src/sys_tcs.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .text          0x00000000        0x0 ./sdk/memory/src/qspi_automode.o
+ .data          0x00000000        0x0 ./sdk/memory/src/qspi_automode.o
+ .bss           0x00000000        0x0 ./sdk/memory/src/qspi_automode.o
+ text_retained  0x00000000      0x2bc ./sdk/memory/src/qspi_automode.o
+ .text.qspi_automode_get_code_buffer_size
+                0x00000000        0x4 ./sdk/memory/src/qspi_automode.o
+ .text.qspi_automode_set_code_buffer
+                0x00000000        0x4 ./sdk/memory/src/qspi_automode.o
+ .text.qspi_automode_writable
+                0x00000000        0x8 ./sdk/memory/src/qspi_automode.o
+ .text.qspi_automode_write_flash_page
+                0x00000000       0x1c ./sdk/memory/src/qspi_automode.o
+ .text.qspi_automode_erase_flash_sector
+                0x00000000       0x14 ./sdk/memory/src/qspi_automode.o
+ .text.qspi_automode_read
+                0x00000000       0x18 ./sdk/memory/src/qspi_automode.o
+ .text.qspi_automode_flash_power_up
+                0x00000000       0x24 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000      0x820 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000      0x148 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0xb2 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000      0x38a ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x10 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000      0x288 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x58 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x22 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x35 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x9c ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x16 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x4a ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x97 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000      0x27a ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0xf6 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x10 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x52 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x16 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x43 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000      0x180 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x10 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x22 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0xbd ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x16 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000      0x196 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x1c ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000      0x1f7 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x16 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x35 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x22 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x3a ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x1f ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000      0x22d ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x19 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x22 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000     0xc21a ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000      0x294 ./sdk/memory/src/qspi_automode.o
+ .debug_macro   0x00000000       0x22 ./sdk/memory/src/qspi_automode.o
+ .group         0x00000000        0x8 ./sdk/adapters/src/ad_battery.o
+ .group         0x00000000        0x8 ./sdk/adapters/src/ad_battery.o
+ .group         0x00000000        0x8 ./sdk/adapters/src/ad_battery.o
+ .group         0x00000000        0x8 ./sdk/adapters/src/ad_battery.o
+ .group         0x00000000        0x8 ./sdk/adapters/src/ad_battery.o
+ .group         0x00000000        0x8 ./sdk/adapters/src/ad_battery.o
+ .text          0x00000000        0x0 ./sdk/adapters/src/ad_battery.o
+ .data          0x00000000        0x0 ./sdk/adapters/src/ad_battery.o
+ .bss           0x00000000        0x0 ./sdk/adapters/src/ad_battery.o
+ .debug_info    0x00000000       0x1d ./sdk/adapters/src/ad_battery.o
+ .debug_abbrev  0x00000000       0x11 ./sdk/adapters/src/ad_battery.o
+ .debug_aranges
+                0x00000000       0x18 ./sdk/adapters/src/ad_battery.o
+ .debug_macro   0x00000000       0x4c ./sdk/adapters/src/ad_battery.o
+ .debug_macro   0x00000000      0x820 ./sdk/adapters/src/ad_battery.o
+ .debug_macro   0x00000000      0x148 ./sdk/adapters/src/ad_battery.o
+ .debug_macro   0x00000000       0xb2 ./sdk/adapters/src/ad_battery.o
+ .debug_macro   0x00000000      0x38a ./sdk/adapters/src/ad_battery.o
+ .debug_macro   0x00000000       0x10 ./sdk/adapters/src/ad_battery.o
+ .debug_macro   0x00000000      0x288 ./sdk/adapters/src/ad_battery.o
+ .debug_line    0x00000000      0x161 ./sdk/adapters/src/ad_battery.o
+ .debug_str     0x00000000     0x5776 ./sdk/adapters/src/ad_battery.o
+ .comment       0x00000000       0x71 ./sdk/adapters/src/ad_battery.o
+ .ARM.attributes
+                0x00000000       0x31 ./sdk/adapters/src/ad_battery.o
+ .data          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .text          0x00000000      0x1e0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+ .debug_frame   0x00000000       0x20 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000000       0x1e d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcmp.o)
+ .data          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcmp.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcmp.o)
+ .text          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .data          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .bss           0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .text          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ .data          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ .bss           0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x00000000         0x0000fc00         xrw
+RetRAM0          0x0000fc00         0x00000400         xrw
+BUFFER           0x00010000         0x00010000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+LOAD d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+LOAD d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+LOAD ./startup/config.o
+LOAD ./startup/startup_ARMCM0.o
+LOAD ./startup/system_ARMCM0.o
+LOAD ./startup/vector_table.o
+LOAD ./src/crc16.o
+LOAD ./src/flash.o
+LOAD ./src/main.o
+LOAD ./sdk/peripherals/src/hw_aes_hash.o
+LOAD ./sdk/peripherals/src/hw_cpm.o
+LOAD ./sdk/peripherals/src/hw_dma.o
+LOAD ./sdk/peripherals/src/hw_fem_sky66112-11.o
+LOAD ./sdk/peripherals/src/hw_gpadc.o
+LOAD ./sdk/peripherals/src/hw_gpio.o
+LOAD ./sdk/peripherals/src/hw_hard_fault.o
+LOAD ./sdk/peripherals/src/hw_i2c.o
+LOAD ./sdk/peripherals/src/hw_irgen.o
+LOAD ./sdk/peripherals/src/hw_keyboard_scanner.o
+LOAD ./sdk/peripherals/src/hw_otpc.o
+LOAD ./sdk/peripherals/src/hw_qspi.o
+LOAD ./sdk/peripherals/src/hw_quad.o
+LOAD ./sdk/peripherals/src/hw_rf.o
+LOAD ./sdk/peripherals/src/hw_soc.o
+LOAD ./sdk/peripherals/src/hw_spi.o
+LOAD ./sdk/peripherals/src/hw_tempsens.o
+LOAD ./sdk/peripherals/src/hw_timer0.o
+LOAD ./sdk/peripherals/src/hw_timer1.o
+LOAD ./sdk/peripherals/src/hw_timer2.o
+LOAD ./sdk/peripherals/src/hw_trng.o
+LOAD ./sdk/peripherals/src/hw_uart.o
+LOAD ./sdk/peripherals/src/hw_usb_charger.o
+LOAD ./sdk/peripherals/src/hw_watchdog.o
+LOAD ./sdk/peripherals/src/hw_wkup.o
+LOAD ./sdk/peripherals/src/sys_tcs.o
+LOAD ./sdk/memory/src/qspi_automode.o
+LOAD ./sdk/adapters/src/ad_battery.o
+START GROUP
+LOAD d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a
+LOAD d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a
+LOAD d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libc_nano.a
+END GROUP
+START GROUP
+LOAD d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a
+LOAD d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libc_nano.a
+LOAD d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libnosys.a
+END GROUP
+START GROUP
+LOAD d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a
+LOAD d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libc_nano.a
+LOAD d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libnosys.a
+END GROUP
+LOAD d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+LOAD d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+
+.text           0x00000000     0x411c
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./startup/vector_table.o
+                0x00000000                __isr_vector
+                0x000000c0                . = 0xc0
+ *(.patch_table)
+ .patch_table   0x000000c0       0x40 ./startup/vector_table.o
+                0x000000c0                __patch_table_start
+                0x00000200                . = 0x200
+ *fill*         0x00000100      0x100 
+                0x00000200                PROVIDE (__patchable_params, .)
+                0x00000200        0x4 LONG 0xffffffff
+                0x00000204        0x4 LONG 0xffffffff
+                0x00000208        0x4 LONG 0xffffffff
+                0x0000020c        0x4 LONG 0xffffffff
+                0x00000210        0x4 LONG 0xffffffff
+                0x00000214                . = ALIGN (0x4)
+ *(.swd_section)
+ .swd_section   0x00000214       0x18 ./src/main.o
+                0x00000214                swd_interface
+                0x0000022c                . = ALIGN (0x4)
+ *(.text*)
+ .text          0x0000022c       0x60 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .text          0x0000028c       0x78 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+                0x0000028c                _start
+                0x0000028c                _mainCRTStartup
+ .text.set_interrupt_priorities
+                0x00000304       0xb0 ./startup/config.o
+                0x00000304                set_interrupt_priorities
+ .text          0x000003b4      0x100 ./startup/startup_ARMCM0.o
+                0x000003b4                Reset_Handler
+                0x0000042c                TRNG_Handler
+                0x0000042c                RESERVED31_Handler
+                0x0000042c                SPI_Handler
+                0x0000042c                SysTick_Handler
+                0x0000042c                PendSV_Handler
+                0x0000042c                RFCAL_Handler
+                0x0000042c                SWTIM0_Handler
+                0x0000042c                DCDC_Handler
+                0x0000042c                BLE_GEN_Handler
+                0x0000042c                SRC_IN_Handler
+                0x0000042c                CRYPTO_Handler
+                0x0000042c                QUADEC_Handler
+                0x0000042c                BLE_WAKEUP_LP_Handler
+                0x0000042c                MRM_Handler
+                0x0000042c                USB_Handler
+                0x0000042c                PCM_Handler
+                0x0000042c                IRGEN_Handler
+                0x0000042c                SRC_OUT_Handler
+                0x0000042c                I2C_Handler
+                0x0000042c                COEX_Handler
+                0x0000042c                Default_Handler
+                0x0000042c                SPI2_Handler
+                0x0000042c                I2C2_Handler
+                0x0000042c                KEYBRD_Handler
+                0x0000042c                FTDF_GEN_Handler
+                0x0000042c                RF_DIAG_Handler
+                0x0000042c                FTDF_WAKEUP_Handler
+                0x00000438                SVC_Handler
+                0x0000043a                NMI_Handler
+                0x00000450                HardFault_Handler
+ .text.is_compatible_chip_version
+                0x000004b4       0x10 ./startup/system_ARMCM0.o
+ .text.configure_cache
+                0x000004c4       0x54 ./startup/system_ARMCM0.o
+ .text.apply_trim_values_from_otp
+                0x00000518      0x134 ./startup/system_ARMCM0.o
+ .text.nortos_clk_setup
+                0x0000064c       0x80 ./startup/system_ARMCM0.o
+ .text.XTAL16RDY_Handler
+                0x000006cc        0xc ./startup/system_ARMCM0.o
+                0x000006cc                XTAL16RDY_Handler
+ .text.SystemInit
+                0x000006d8      0x128 ./startup/system_ARMCM0.o
+                0x000006d8                SystemInit
+ .text.SystemInitPost
+                0x00000800      0x1b8 ./startup/system_ARMCM0.o
+                0x00000800                SystemInitPost
+ .text.black_orca_phy_addr
+                0x000009b8       0x24 ./startup/system_ARMCM0.o
+                0x000009b8                black_orca_phy_addr
+ .text.crc16_init
+                0x000009dc        0x8 ./src/crc16.o
+                0x000009dc                crc16_init
+ .text.crc16_update
+                0x000009e4       0x4c ./src/crc16.o
+                0x000009e4                crc16_update
+ .text.qspi_release_power_down
+                0x00000a30       0x1c ./src/flash.o
+ .text.winbond_qspi_exit_continuous_read
+                0x00000a4c       0x1c ./src/flash.o
+ .text.qspi_read_id
+                0x00000a68       0x1c ./src/flash.o
+ .text.winbond_qspi_write_enable
+                0x00000a84       0x18 ./src/flash.o
+ .text.winbond_qspi_wait_while_busy
+                0x00000a9c       0x28 ./src/flash.o
+ .text.winbond_qspi_erase_size
+                0x00000ac4        0x8 ./src/flash.o
+ .text.winbond_qspi_erase
+                0x00000acc       0x3c ./src/flash.o
+ .text.winbond_qspi_program
+                0x00000b08       0x5c ./src/flash.o
+ .text.winbond_qspi_read
+                0x00000b64       0x50 ./src/flash.o
+ .text.winbond_qspi_chip_erase
+                0x00000bb4       0x24 ./src/flash.o
+ .text.winbond_qspi_init
+                0x00000bd8      0x10c ./src/flash.o
+ .text.flash_init
+                0x00000ce4        0x8 ./src/flash.o
+                0x00000ce4                flash_init
+ .text.flash_copy_from_ram
+                0x00000cec       0xcc ./src/flash.o
+                0x00000cec                flash_copy_from_ram
+ .text.flash_copy_to_ram
+                0x00000db8       0x14 ./src/flash.o
+                0x00000db8                flash_copy_to_ram
+ .text.flash_erase_region
+                0x00000dcc       0x28 ./src/flash.o
+                0x00000dcc                flash_erase_region
+ .text.flash_chip_erase
+                0x00000df4        0xc ./src/flash.o
+                0x00000df4                flash_chip_erase
+ .text.uart_soh_cb
+                0x00000e00       0x18 ./src/main.o
+ .text.timer1_tick_cb
+                0x00000e18       0x10 ./src/main.o
+ .text.uart_data_cb
+                0x00000e28        0xc ./src/main.o
+ .text.push_partition_entry_name
+                0x00000e34       0xd8 ./src/main.o
+ .text.piggy_back_partition_entry
+                0x00000f0c       0x20 ./src/main.o
+ .text.process_header
+                0x00000f2c      0x100 ./src/main.o
+ .text.load_header
+                0x0000102c       0x20 ./src/main.o
+ .text.piggy_back_partition_table
+                0x0000104c       0x68 ./src/main.o
+ .text.init     0x000010b4      0x264 ./src/main.o
+ .text.timer1_soh_cb
+                0x00001318       0x18 ./src/main.o
+ .text.recv_with_tmo
+                0x00001330       0xf0 ./src/main.o
+ .text.wait_for_cmd
+                0x00001420       0x3c ./src/main.o
+ .text.wait_for_soh
+                0x0000145c       0xd0 ./src/main.o
+ .text.cmd_send_to_ram
+                0x0000152c       0x74 ./src/main.o
+ .text.cmd_execute_code
+                0x000015a0       0x98 ./src/main.o
+ .text.cmd_chip_erase_qspi
+                0x00001638       0x54 ./src/main.o
+ .text.cmd_get_version
+                0x0000168c       0x64 ./src/main.o
+ .text.cmd_read_from_ram
+                0x000016f0       0x90 ./src/main.o
+ .text.cmd_erase_qspi
+                0x00001780       0x88 ./src/main.o
+ .text.cmd_write_ram_to_qspi
+                0x00001808       0x9c ./src/main.o
+ .text.cmd_write_otp
+                0x000018a4       0x9c ./src/main.o
+ .text.load_data
+                0x00001940       0xec ./src/main.o
+ .text.cmd_read_qspi
+                0x00001a2c       0xa8 ./src/main.o
+ .text.cmd_read_partition_table
+                0x00001ad4       0x94 ./src/main.o
+ .text.cmd_read_otp
+                0x00001b68       0xfc ./src/main.o
+ .text.cmd_is_empty_qspi
+                0x00001c64      0x16c ./src/main.o
+ .text.swd_loop
+                0x00001dd0       0x48 ./src/main.o
+                0x00001dd0                swd_loop
+ .text.main     0x00001e18      0x1b8 ./src/main.o
+                0x00001e18                main
+ .text.hw_cpm_set_divn
+                0x00001fd0       0x28 ./sdk/peripherals/src/hw_cpm.o
+                0x00001fd0                hw_cpm_set_divn
+ .text.hw_cpm_set_sysclk
+                0x00001ff8       0x78 ./sdk/peripherals/src/hw_cpm.o
+                0x00001ff8                hw_cpm_set_sysclk
+ .text.hw_cpm_set_preferred_values
+                0x00002070       0x38 ./sdk/peripherals/src/hw_cpm.o
+                0x00002070                hw_cpm_set_preferred_values
+ .text.hw_cpm_assert_trigger_gpio
+                0x000020a8        0x4 ./sdk/peripherals/src/hw_cpm.o
+                0x000020a8                hw_cpm_assert_trigger_gpio
+ .text.hw_dma_channel_initialization
+                0x000020ac      0x1b0 ./sdk/peripherals/src/hw_dma.o
+                0x000020ac                hw_dma_channel_initialization
+ .text.hw_dma_channel_enable
+                0x0000225c       0x50 ./sdk/peripherals/src/hw_dma.o
+                0x0000225c                hw_dma_channel_enable
+ .text.DMA_Handler
+                0x000022ac       0xc0 ./sdk/peripherals/src/hw_dma.o
+                0x000022ac                DMA_Handler
+ .text.hw_dma_channel_stop
+                0x0000236c       0x4c ./sdk/peripherals/src/hw_dma.o
+                0x0000236c                hw_dma_channel_stop
+ .text.ADC_Handler
+                0x000023b8       0x20 ./sdk/peripherals/src/hw_gpadc.o
+                0x000023b8                ADC_Handler
+ .text.hw_gpio_set_pin_function
+                0x000023d8       0x18 ./sdk/peripherals/src/hw_gpio.o
+                0x000023d8                hw_gpio_set_pin_function
+ .text.HardFault_HandlerC
+                0x000023f0       0xd4 ./sdk/peripherals/src/hw_hard_fault.o
+                0x000023f0                HardFault_HandlerC
+ .text.hw_otpc_disable
+                0x000024c4       0xa0 ./sdk/peripherals/src/hw_otpc.o
+                0x000024c4                hw_otpc_disable
+ .text.hw_otpc_set_speed
+                0x00002564       0x64 ./sdk/peripherals/src/hw_otpc.o
+                0x00002564                hw_otpc_set_speed
+ .text.hw_otpc_manual_read_on
+                0x000025c8       0x50 ./sdk/peripherals/src/hw_otpc.o
+                0x000025c8                hw_otpc_manual_read_on
+ .text.hw_otpc_manual_read_off
+                0x00002618       0x44 ./sdk/peripherals/src/hw_otpc.o
+                0x00002618                hw_otpc_manual_read_off
+ .text.hw_otpc_dma_prog
+                0x0000265c      0x104 ./sdk/peripherals/src/hw_otpc.o
+                0x0000265c                hw_otpc_dma_prog
+ .text.hw_otpc_fifo_read
+                0x00002760       0xf4 ./sdk/peripherals/src/hw_otpc.o
+                0x00002760                hw_otpc_fifo_read
+ .text.hw_qspi_set_bus_mode
+                0x00002854       0x3c ./sdk/peripherals/src/hw_qspi.o
+                0x00002854                hw_qspi_set_bus_mode
+ .text.hw_qspi_set_automode
+                0x00002890       0xa0 ./sdk/peripherals/src/hw_qspi.o
+                0x00002890                hw_qspi_set_automode
+ .text.hw_qspi_set_read_instruction
+                0x00002930       0x5c ./sdk/peripherals/src/hw_qspi.o
+                0x00002930                hw_qspi_set_read_instruction
+ .text.hw_qspi_set_extra_byte
+                0x0000298c       0x40 ./sdk/peripherals/src/hw_qspi.o
+                0x0000298c                hw_qspi_set_extra_byte
+ .text.hw_qspi_set_read_status_instruction
+                0x000029cc       0x68 ./sdk/peripherals/src/hw_qspi.o
+                0x000029cc                hw_qspi_set_read_status_instruction
+ .text.hw_qspi_set_erase_instruction
+                0x00002a34       0x58 ./sdk/peripherals/src/hw_qspi.o
+                0x00002a34                hw_qspi_set_erase_instruction
+ .text.hw_qspi_set_write_enable_instruction
+                0x00002a8c       0x28 ./sdk/peripherals/src/hw_qspi.o
+                0x00002a8c                hw_qspi_set_write_enable_instruction
+ .text.hw_qspi_set_suspend_resume_instructions
+                0x00002ab4       0x44 ./sdk/peripherals/src/hw_qspi.o
+                0x00002ab4                hw_qspi_set_suspend_resume_instructions
+ .text.hw_qspi_set_break_sequence
+                0x00002af8       0x30 ./sdk/peripherals/src/hw_qspi.o
+                0x00002af8                hw_qspi_set_break_sequence
+ .text.hw_qspi_init
+                0x00002b28       0xa8 ./sdk/peripherals/src/hw_qspi.o
+                0x00002b28                hw_qspi_init
+ .text.hw_qspi_set_div
+                0x00002bd0       0x3c ./sdk/peripherals/src/hw_qspi.o
+                0x00002bd0                hw_qspi_set_div
+ .text.hw_timer1_configure_timer
+                0x00002c0c       0x68 ./sdk/peripherals/src/hw_timer1.o
+                0x00002c0c                hw_timer1_configure_timer
+ .text.hw_timer1_configure_oneshot
+                0x00002c74       0x28 ./sdk/peripherals/src/hw_timer1.o
+                0x00002c74                hw_timer1_configure_oneshot
+ .text.hw_timer1_register_int
+                0x00002c9c       0x24 ./sdk/peripherals/src/hw_timer1.o
+                0x00002c9c                hw_timer1_register_int
+ .text.SWTIM1_Handler
+                0x00002cc0       0x14 ./sdk/peripherals/src/hw_timer1.o
+                0x00002cc0                SWTIM1_Handler
+ .text.hw_timer1_configure_pwm
+                0x00002cd4       0x10 ./sdk/peripherals/src/hw_timer1.o
+                0x00002cd4                hw_timer1_configure_pwm
+ .text.hw_timer1_configure
+                0x00002ce4       0x54 ./sdk/peripherals/src/hw_timer1.o
+                0x00002ce4                hw_timer1_configure
+ .text.hw_timer1_init
+                0x00002d38       0x84 ./sdk/peripherals/src/hw_timer1.o
+                0x00002d38                hw_timer1_init
+ .text.hw_uart_fire_callback
+                0x00002dbc       0x68 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_irq_stop_receive
+                0x00002e24       0x60 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_rx_dma_callback
+                0x00002e84       0x6c ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_tx_dma_callback
+                0x00002ef0       0x14 ./sdk/peripherals/src/hw_uart.o
+ .text.hw_uart_read
+                0x00002f04        0xc ./sdk/peripherals/src/hw_uart.o
+                0x00002f04                hw_uart_read
+ .text.hw_uart_write
+                0x00002f10        0xc ./sdk/peripherals/src/hw_uart.o
+                0x00002f10                hw_uart_write
+ .text.hw_uart_write_buffer
+                0x00002f1c       0x20 ./sdk/peripherals/src/hw_uart.o
+                0x00002f1c                hw_uart_write_buffer
+ .text.hw_uart_send
+                0x00002f3c       0xb4 ./sdk/peripherals/src/hw_uart.o
+                0x00002f3c                hw_uart_send
+ .text.hw_uart_read_buffer
+                0x00002ff0       0x20 ./sdk/peripherals/src/hw_uart.o
+                0x00002ff0                hw_uart_read_buffer
+ .text.hw_uart_receive
+                0x00003010      0x104 ./sdk/peripherals/src/hw_uart.o
+                0x00003010                hw_uart_receive
+ .text.hw_uart_abort_receive
+                0x00003114       0x30 ./sdk/peripherals/src/hw_uart.o
+                0x00003114                hw_uart_abort_receive
+ .text.hw_uart_set_dma_channels_ex
+                0x00003144      0x1dc ./sdk/peripherals/src/hw_uart.o
+                0x00003144                hw_uart_set_dma_channels_ex
+ .text.hw_uart_init
+                0x00003320      0x1a4 ./sdk/peripherals/src/hw_uart.o
+                0x00003320                hw_uart_init
+ .text.hw_uart_thr_empty_getf
+                0x000034c4        0x8 ./sdk/peripherals/src/hw_uart.o
+                0x000034c4                hw_uart_thr_empty_getf
+ .text.UART_Interrupt_Handler
+                0x000034cc      0x184 ./sdk/peripherals/src/hw_uart.o
+                0x000034cc                UART_Interrupt_Handler
+ .text.UART_Handler
+                0x00003650       0x10 ./sdk/peripherals/src/hw_uart.o
+                0x00003650                UART_Handler
+ .text.UART2_Handler
+                0x00003660       0x10 ./sdk/peripherals/src/hw_uart.o
+                0x00003660                UART2_Handler
+ .text.VBUS_Handler
+                0x00003670        0x4 ./sdk/peripherals/src/hw_usb_charger.o
+                0x00003670                VBUS_Handler
+ .text.hw_watchdog_freeze
+                0x00003674       0x20 ./sdk/peripherals/src/hw_watchdog.o
+                0x00003674                hw_watchdog_freeze
+ .text.hw_watchdog_handle_int
+                0x00003694       0xf8 ./sdk/peripherals/src/hw_watchdog.o
+                0x00003694                hw_watchdog_handle_int
+ .text.NMI_HandlerC
+                0x0000378c       0x18 ./sdk/peripherals/src/hw_watchdog.o
+                0x0000378c                NMI_HandlerC
+ .text.hw_wkup_handler
+                0x000037a4       0x20 ./sdk/peripherals/src/hw_wkup.o
+                0x000037a4                hw_wkup_handler
+ .text.WKUP_GPIO_Handler
+                0x000037c4        0x8 ./sdk/peripherals/src/hw_wkup.o
+                0x000037c4                WKUP_GPIO_Handler
+ .text.apply_pair
+                0x000037cc       0x10 ./sdk/peripherals/src/sys_tcs.o
+ .text.apply_entry
+                0x000037dc       0x20 ./sdk/peripherals/src/sys_tcs.o
+ .text.store_in_array
+                0x000037fc       0x20 ./sdk/peripherals/src/sys_tcs.o
+ .text.swap_entries
+                0x0000381c       0x30 ./sdk/peripherals/src/sys_tcs.o
+ .text.sys_tcs_sort_area
+                0x0000384c       0x88 ./sdk/peripherals/src/sys_tcs.o
+ .text.sys_tcs_init
+                0x000038d4       0x20 ./sdk/peripherals/src/sys_tcs.o
+                0x000038d4                sys_tcs_init
+ .text.sys_tcs_store_pair
+                0x000038f4       0xd0 ./sdk/peripherals/src/sys_tcs.o
+                0x000038f4                sys_tcs_store_pair
+ .text.sys_tcs_sort_array
+                0x000039c4      0x11c ./sdk/peripherals/src/sys_tcs.o
+                0x000039c4                sys_tcs_sort_array
+ .text.sys_tcs_apply
+                0x00003ae0       0x28 ./sdk/peripherals/src/sys_tcs.o
+                0x00003ae0                sys_tcs_apply
+ .text.qspi_automode_init
+                0x00003b08       0xdc ./sdk/memory/src/qspi_automode.o
+                0x00003b08                qspi_automode_init
+ .text          0x00003be4      0x120 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+                0x00003be4                __aeabi_uidiv
+                0x00003be4                __udivsi3
+                0x00003cf0                __aeabi_uidivmod
+ .text          0x00003d04        0x4 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+                0x00003d04                __aeabi_idiv0
+                0x00003d04                __aeabi_ldiv0
+ .text.exit     0x00003d08       0x2c d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+                0x00003d08                exit
+ .text.__libc_init_array
+                0x00003d34       0x4c d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+                0x00003d34                __libc_init_array
+ .text.memcmp   0x00003d80       0x1e d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcmp.o)
+                0x00003d80                memcmp
+ .text.memcpy   0x00003d9e       0x12 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+                0x00003d9e                memcpy
+ .text.memmove  0x00003db0       0x28 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memmove.o)
+                0x00003db0                memmove
+ .text.memset   0x00003dd8       0x10 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+                0x00003dd8                memset
+ .text._exit    0x00003de8        0x4 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+                0x00003de8                _exit
+ *(.init)
+ .init          0x00003dec        0x4 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+                0x00003dec                _init
+ .init          0x00003df0        0x8 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ *(.fini)
+ .fini          0x00003df8        0x4 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+                0x00003df8                _fini
+ .fini          0x00003dfc        0x8 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x00003e04                . = ALIGN (0x4)
+                0x00003e04                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x00003e04                PROVIDE (__preinit_array_end, .)
+                0x00003e04                . = ALIGN (0x4)
+                0x00003e04                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x00003e04        0x4 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+                0x00003e08                PROVIDE (__init_array_end, .)
+                0x00003e08                . = ALIGN (0x4)
+                0x00003e08                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x00003e08        0x4 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+                0x00003e0c                PROVIDE (__fini_array_end, .)
+ *(.rodata*)
+ .rodata.__dialog_interrupt_priorities
+                0x00003e0c       0x28 ./startup/config.o
+                0x00003e0c                __dialog_interrupt_priorities
+ .rodata.remap.7925
+                0x00003e34       0x20 ./startup/system_ARMCM0.o
+ .rodata.qspi_cfg
+                0x00003e54        0x4 ./src/flash.o
+ .rodata.push_partition_entry_name
+                0x00003e58       0x54 ./src/main.o
+ .rodata.process_header
+                0x00003eac       0x38 ./src/main.o
+ .rodata.cmd_read_from_ram
+                0x00003ee4       0x14 ./src/main.o
+ .rodata.cmd_read_qspi
+                0x00003ef8       0x14 ./src/main.o
+ .rodata.cmd_read_partition_table
+                0x00003f0c       0x14 ./src/main.o
+ .rodata.cmd_read_otp
+                0x00003f20       0x14 ./src/main.o
+ .rodata.cmd_is_empty_qspi
+                0x00003f34       0x14 ./src/main.o
+ .rodata.msg.9404
+                0x00003f48        0x4 ./src/main.o
+ .rodata.str1.4
+                0x00003f4c      0x100 ./src/main.o
+ .rodata.msg.9264
+                0x0000404c        0x4 ./src/main.o
+ .rodata.hw_dma_channel_initialization
+                0x00004050       0x20 ./sdk/peripherals/src/hw_dma.o
+ .rodata.tim1   0x00004070       0x2c ./sdk/peripherals/src/hw_otpc.o
+                0x00004070                tim1
+ .rodata.tim2   0x0000409c        0xc ./sdk/peripherals/src/hw_otpc.o
+ .rodata.dummy_num
+                0x000040a8        0x8 ./sdk/peripherals/src/hw_qspi.o
+ .rodata.UART_Interrupt_Handler
+                0x000040b0       0x34 ./sdk/peripherals/src/hw_uart.o
+ .rodata.uncalibrated_tcs_data
+                0x000040e4       0x28 ./sdk/peripherals/src/sys_tcs.o
+ .rodata.qspi_cfg
+                0x0000410c        0x4 ./sdk/memory/src/qspi_automode.o
+ .rodata.str1.1
+                0x00004110        0x2 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ *fill*         0x00004112        0x2 
+ .rodata._global_impure_ptr
+                0x00004114        0x4 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+                0x00004114                _global_impure_ptr
+ *(.eh_frame*)
+ .eh_frame      0x00004118        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .eh_frame      0x00004118        0x4 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+
+.glue_7         0x0000411c        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x0000411c        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x0000411c        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x0000411c        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x0000411c        0x0
+ .iplt          0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000411c                __exidx_start = .
+
+.ARM.exidx      0x0000411c        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000411c        0x8 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+                0x00004124                __exidx_end = .
+
+.rel.dyn        0x00004124        0x0
+ .rel.iplt      0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+
+.default_patch_code_handler_section
+                0x00004124        0x4
+ .default_patch_code_handler_section
+                0x00004124        0x4 ./startup/vector_table.o
+                0x00004124                Default_Patch_Code_Handler
+
+.copy.table     0x00004128       0x18
+                0x00004128                . = ALIGN (0x4)
+                0x00004128                __copy_table_start__ = .
+                0x00004128        0x4 LONG 0x4150 __etext
+                0x0000412c        0x4 LONG 0x4150 __data_start__
+                0x00004130        0x4 LONG 0x84 (__data_end__ - __data_start__)
+                0x00004134        0x4 LONG 0x41d4 (__etext + (__data_end__ - __data_start__))
+                0x00004138        0x4 LONG 0xfc00 __RetRAM0_code_start__
+                0x0000413c        0x4 LONG 0x0 (__RetRAM0_code_end__ - __RetRAM0_code_start__)
+                0x00004140                __copy_table_end__ = .
+
+.zero.table     0x00004140       0x10
+                0x00004140                . = ALIGN (0x4)
+                0x00004140                __zero_table_start__ = .
+                0x00004140        0x4 LONG 0x42a4 __bss_start__
+                0x00004144        0x4 LONG 0x11a0 (__bss_end__ - __bss_start__)
+                0x00004148        0x4 LONG 0xfc00 __RetRAM0_start
+                0x0000414c        0x4 LONG 0x400 __RetRAM0_size
+                0x00004150                __zero_table_end__ = .
+                0x00004150                __etext = .
+
+.data           0x00004150       0x84
+                0x00004150                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.flash_ops_winbond_qspi
+                0x00004150       0x18 ./src/flash.o
+                0x00004150                flash_ops_winbond_qspi
+ .data.UART_INIT
+                0x00004168        0x4 ./src/main.o
+ .data.timer1_soh_tmo
+                0x0000416c        0x1 ./src/main.o
+ *fill*         0x0000416d        0x3 
+ .data.impure_data
+                0x00004170       0x60 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+                0x000041d0                . = ALIGN (0x4)
+ *(.jcr*)
+ .jcr           0x000041d0        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .jcr           0x000041d0        0x4 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+                0x000041d4                . = ALIGN (0x4)
+                0x000041d4                __data_end__ = .
+
+.igot.plt       0x000041d4        0x0
+ .igot.plt      0x00000000        0x0 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+
+retention_mem_uninit
+                0x000041d4       0xd0
+                0x000041d4                PROVIDE (__start_retention_mem_uninit, .)
+ retention_mem_uninit
+                0x000041d4        0x4 ./startup/system_ARMCM0.o
+                0x000041d4                black_orca_chip_version
+ retention_mem_uninit
+                0x000041d8        0x2 ./sdk/peripherals/src/hw_cpm.o
+                0x000041d8                hw_cpm_bod_enabled_in_tcs
+ *fill*         0x000041da        0x2 
+ retention_mem_uninit
+                0x000041dc       0xc8 ./sdk/peripherals/src/sys_tcs.o
+                0x000041dc                tcs_length
+                0x000041e0                tcs_data
+                0x000042a0                sys_tcs_is_calibrated_chip
+                0x000042a4                PROVIDE (__stop_retention_mem_uninit, .)
+
+.bss            0x000042a4     0x11a0
+                0x000042a4                . = ALIGN (0x4)
+                0x000042a4                __bss_start__ = .
+ *(.bss*)
+ .bss           0x000042a4       0x1c d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .bss.nortos_xtal16m_settled
+                0x000042c0        0x1 ./startup/system_ARMCM0.o
+ *fill*         0x000042c1        0x3 
+ .bss.read_buf  0x000042c4     0x1000 ./src/flash.o
+ .bss.cmd_state
+                0x000052c4       0x20 ./src/main.o
+ .bss.uart_tmo  0x000052e4        0x1 ./src/main.o
+ *fill*         0x000052e5        0x1 
+ .bss.tick      0x000052e6        0x2 ./src/main.o
+ .bss.size.9386
+                0x000052e8        0x2 ./src/main.o
+ .bss.uart_soh  0x000052ea        0x1 ./src/main.o
+ *fill*         0x000052eb        0x1 
+ .bss.return_val.9414
+                0x000052ec        0x4 ./src/main.o
+ .bss.uart_buf  0x000052f0       0x20 ./src/main.o
+ .bss.uart_data_len
+                0x00005310        0x2 ./src/main.o
+ *fill*         0x00005312        0x2 
+ .bss.dma_callbacks_user_data
+                0x00005314       0x40 ./sdk/peripherals/src/hw_dma.o
+ .bss.intr_cb   0x00005354        0x4 ./sdk/peripherals/src/hw_gpadc.o
+ .bss.intr_cb   0x00005358        0x4 ./sdk/peripherals/src/hw_timer1.o
+ .bss.uart_data
+                0x0000535c       0xe8 ./sdk/peripherals/src/hw_uart.o
+ *(COMMON)
+                0x00005444                . = ALIGN (0x4)
+                0x00005444                __bss_end__ = .
+
+.heap           0x00005448      0x600
+                0x00005448                __end__ = .
+                0x00005448                PROVIDE (end, .)
+ *(.heap*)
+ .heap          0x00005448      0x600 ./startup/vector_table.o
+                0x00005448                __HeapBase
+                0x00005a48                __HeapLimit = .
+
+.stack_dummy    0x00005448      0x100
+ *(.stack*)
+ .stack         0x00005448      0x100 ./startup/vector_table.o
+                0x0000fc00                __StackTop = (ORIGIN (RAM) + 0xfc00)
+                0x0000fb00                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x0000fc00                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+
+RETENTION_ROM0  0x0000fc00        0x0 load address 0x000041d4
+                0x0000fc00                . = ALIGN (0x4)
+                0x0000fc00                __RetRAM0_code_start__ = .
+ *(.text_retained)
+ *(retention_mem_rw)
+ *(privileged_data_rw)
+                0x0000fc00                . = ALIGN (0x4)
+                0x0000fc00                __RetRAM0_code_end__ = .
+
+RETENTION_RAM0  0x0000fc00       0x20
+                0x0000fc00                __RetRAM0_start = .
+ *(os_heap)
+ *(ble_exchange_table_area)
+ *(privileged_data_zi)
+ *(retention_mem_zi)
+ retention_mem_zi
+                0x0000fc00        0x8 ./startup/system_ARMCM0.o
+                0x0000fc00                SystemCoreClock
+                0x0000fc04                SystemLPClock
+ retention_mem_zi
+                0x0000fc08        0x4 ./sdk/peripherals/src/hw_watchdog.o
+ retention_mem_zi
+                0x0000fc0c        0x4 ./sdk/peripherals/src/hw_wkup.o
+ retention_mem_zi
+                0x0000fc10       0x10 ./sdk/peripherals/src/sys_tcs.o
+                0x0000fc10                tcs_ptr
+                0x0000fc14                sys_tcs_xtal16m_settling_time
+                0x0000fc18                area_offset
+                0x0000fc1c                area_size
+ *(os_heap)
+ *(ble_msg_heap)
+ *(ble_env_heap)
+ *(ble_db_heap)
+                0x00000400                __RetRAM0_size = (0x400 - (__RetRAM0_start - __RetRAM0_code_start__))
+
+.inputbuffer    0x00010000    0x10000
+                0x00010000                . = ALIGN (0x4)
+                0x00010000                __inputbuffer_start = .
+                0x00020000                . = (ORIGIN (BUFFER) + 0x10000)
+ *fill*         0x00010000    0x10000 
+                0x00020000                __inputbuffer_end = .
+OUTPUT(uartboot.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x28
+ .ARM.attributes
+                0x00000000       0x1e d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x1b d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.attributes
+                0x00000065       0x31 ./startup/config.o
+ .ARM.attributes
+                0x00000096       0x1b ./startup/startup_ARMCM0.o
+ .ARM.attributes
+                0x000000b1       0x31 ./startup/system_ARMCM0.o
+ .ARM.attributes
+                0x000000e2       0x1b ./startup/vector_table.o
+ .ARM.attributes
+                0x000000fd       0x31 ./src/crc16.o
+ .ARM.attributes
+                0x0000012e       0x31 ./src/flash.o
+ .ARM.attributes
+                0x0000015f       0x31 ./src/main.o
+ .ARM.attributes
+                0x00000190       0x31 ./sdk/peripherals/src/hw_cpm.o
+ .ARM.attributes
+                0x000001c1       0x31 ./sdk/peripherals/src/hw_dma.o
+ .ARM.attributes
+                0x000001f2       0x31 ./sdk/peripherals/src/hw_gpadc.o
+ .ARM.attributes
+                0x00000223       0x31 ./sdk/peripherals/src/hw_gpio.o
+ .ARM.attributes
+                0x00000254       0x31 ./sdk/peripherals/src/hw_hard_fault.o
+ .ARM.attributes
+                0x00000285       0x31 ./sdk/peripherals/src/hw_otpc.o
+ .ARM.attributes
+                0x000002b6       0x31 ./sdk/peripherals/src/hw_qspi.o
+ .ARM.attributes
+                0x000002e7       0x31 ./sdk/peripherals/src/hw_timer1.o
+ .ARM.attributes
+                0x00000318       0x31 ./sdk/peripherals/src/hw_uart.o
+ .ARM.attributes
+                0x00000349       0x31 ./sdk/peripherals/src/hw_usb_charger.o
+ .ARM.attributes
+                0x0000037a       0x31 ./sdk/peripherals/src/hw_watchdog.o
+ .ARM.attributes
+                0x000003ab       0x31 ./sdk/peripherals/src/hw_wkup.o
+ .ARM.attributes
+                0x000003dc       0x31 ./sdk/peripherals/src/sys_tcs.o
+ .ARM.attributes
+                0x0000040d       0x31 ./sdk/memory/src/qspi_automode.o
+ .ARM.attributes
+                0x0000043e       0x1e d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000045c       0x1e d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000047a       0x2c d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000004a6       0x2c d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000004d2       0x2c d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x000004fe       0x2c d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x0000052a       0x2c d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000556       0x2c d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000582       0x2c d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000005ae       0x2c d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x000005da       0x2c d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtend.o
+ .ARM.attributes
+                0x00000606       0x1e d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m/crtn.o
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ./startup/config.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./startup/system_ARMCM0.o
+ .comment       0x00000000       0x71 ./src/crc16.o
+ .comment       0x00000000       0x71 ./src/flash.o
+ .comment       0x00000000       0x71 ./src/main.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_cpm.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_dma.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_gpadc.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_gpio.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_hard_fault.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_otpc.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_qspi.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_timer1.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_uart.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_usb_charger.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_watchdog.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/hw_wkup.o
+ .comment       0x00000000       0x71 ./sdk/peripherals/src/sys_tcs.o
+ .comment       0x00000000       0x71 ./sdk/memory/src/qspi_automode.o
+
+.debug_info     0x00000000    0x13b91
+ .debug_info    0x00000000      0x4aa ./startup/config.o
+ .debug_info    0x000004aa       0xd1 ./startup/startup_ARMCM0.o
+ .debug_info    0x0000057b     0x1bff ./startup/system_ARMCM0.o
+ .debug_info    0x0000217a       0xcf ./startup/vector_table.o
+ .debug_info    0x00002249      0x1dd ./src/crc16.o
+ .debug_info    0x00002426     0x101c ./src/flash.o
+ .debug_info    0x00003442     0x322b ./src/main.o
+ .debug_info    0x0000666d     0x1570 ./sdk/peripherals/src/hw_cpm.o
+ .debug_info    0x00007bdd      0xe8b ./sdk/peripherals/src/hw_dma.o
+ .debug_info    0x00008a68      0xf42 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_info    0x000099aa      0x8e9 ./sdk/peripherals/src/hw_gpio.o
+ .debug_info    0x0000a293      0x382 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_info    0x0000a615     0x12f7 ./sdk/peripherals/src/hw_otpc.o
+ .debug_info    0x0000b90c      0xe31 ./sdk/peripherals/src/hw_qspi.o
+ .debug_info    0x0000c73d      0xf87 ./sdk/peripherals/src/hw_timer1.o
+ .debug_info    0x0000d6c4     0x29e5 ./sdk/peripherals/src/hw_uart.o
+ .debug_info    0x000100a9      0xd4e ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_info    0x00010df7      0x570 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_info    0x00011367      0xad1 ./sdk/peripherals/src/hw_wkup.o
+ .debug_info    0x00011e38      0x9bc ./sdk/peripherals/src/sys_tcs.o
+ .debug_info    0x000127f4     0x139d ./sdk/memory/src/qspi_automode.o
+
+.debug_abbrev   0x00000000     0x3299
+ .debug_abbrev  0x00000000      0x1e1 ./startup/config.o
+ .debug_abbrev  0x000001e1       0x14 ./startup/startup_ARMCM0.o
+ .debug_abbrev  0x000001f5      0x40b ./startup/system_ARMCM0.o
+ .debug_abbrev  0x00000600       0x14 ./startup/vector_table.o
+ .debug_abbrev  0x00000614      0x105 ./src/crc16.o
+ .debug_abbrev  0x00000719      0x3d5 ./src/flash.o
+ .debug_abbrev  0x00000aee      0x4ff ./src/main.o
+ .debug_abbrev  0x00000fed      0x2be ./sdk/peripherals/src/hw_cpm.o
+ .debug_abbrev  0x000012ab      0x2d9 ./sdk/peripherals/src/hw_dma.o
+ .debug_abbrev  0x00001584      0x2b6 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_abbrev  0x0000183a      0x1c6 ./sdk/peripherals/src/hw_gpio.o
+ .debug_abbrev  0x00001a00       0xf5 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_abbrev  0x00001af5      0x334 ./sdk/peripherals/src/hw_otpc.o
+ .debug_abbrev  0x00001e29      0x24f ./sdk/peripherals/src/hw_qspi.o
+ .debug_abbrev  0x00002078      0x2bd ./sdk/peripherals/src/hw_timer1.o
+ .debug_abbrev  0x00002335      0x3e5 ./sdk/peripherals/src/hw_uart.o
+ .debug_abbrev  0x0000271a      0x193 ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_abbrev  0x000028ad      0x17e ./sdk/peripherals/src/hw_watchdog.o
+ .debug_abbrev  0x00002a2b      0x25d ./sdk/peripherals/src/hw_wkup.o
+ .debug_abbrev  0x00002c88      0x227 ./sdk/peripherals/src/sys_tcs.o
+ .debug_abbrev  0x00002eaf      0x3ea ./sdk/memory/src/qspi_automode.o
+
+.debug_loc      0x00000000     0x8689
+ .debug_loc     0x00000000       0xb9 ./startup/config.o
+ .debug_loc     0x000000b9      0x64d ./startup/system_ARMCM0.o
+ .debug_loc     0x00000706       0xe5 ./src/crc16.o
+ .debug_loc     0x000007eb      0x836 ./src/flash.o
+ .debug_loc     0x00001021      0xee1 ./src/main.o
+ .debug_loc     0x00001f02      0x2a0 ./sdk/peripherals/src/hw_cpm.o
+ .debug_loc     0x000021a2      0x6f4 ./sdk/peripherals/src/hw_dma.o
+ .debug_loc     0x00002896      0x44a ./sdk/peripherals/src/hw_gpadc.o
+ .debug_loc     0x00002ce0      0x539 ./sdk/peripherals/src/hw_gpio.o
+ .debug_loc     0x00003219       0x1e ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_loc     0x00003237     0x17a9 ./sdk/peripherals/src/hw_otpc.o
+ .debug_loc     0x000049e0      0x7cb ./sdk/peripherals/src/hw_qspi.o
+ .debug_loc     0x000051ab      0x30e ./sdk/peripherals/src/hw_timer1.o
+ .debug_loc     0x000054b9     0x2520 ./sdk/peripherals/src/hw_uart.o
+ .debug_loc     0x000079d9       0x1e ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_loc     0x000079f7       0x90 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_loc     0x00007a87      0x183 ./sdk/peripherals/src/hw_wkup.o
+ .debug_loc     0x00007c0a      0x4be ./sdk/peripherals/src/sys_tcs.o
+ .debug_loc     0x000080c8      0x5c1 ./sdk/memory/src/qspi_automode.o
+
+.debug_aranges  0x00000000      0x990
+ .debug_aranges
+                0x00000000       0x20 ./startup/config.o
+ .debug_aranges
+                0x00000020       0x20 ./startup/startup_ARMCM0.o
+ .debug_aranges
+                0x00000040       0x58 ./startup/system_ARMCM0.o
+ .debug_aranges
+                0x00000098       0x20 ./startup/vector_table.o
+ .debug_aranges
+                0x000000b8       0x30 ./src/crc16.o
+ .debug_aranges
+                0x000000e8       0x98 ./src/flash.o
+ .debug_aranges
+                0x00000180       0xf8 ./src/main.o
+ .debug_aranges
+                0x00000278       0xc0 ./sdk/peripherals/src/hw_cpm.o
+ .debug_aranges
+                0x00000338       0x48 ./sdk/peripherals/src/hw_dma.o
+ .debug_aranges
+                0x00000380       0x60 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_aranges
+                0x000003e0       0x80 ./sdk/peripherals/src/hw_gpio.o
+ .debug_aranges
+                0x00000460       0x20 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_aranges
+                0x00000480       0xc0 ./sdk/peripherals/src/hw_otpc.o
+ .debug_aranges
+                0x00000540       0x90 ./sdk/peripherals/src/hw_qspi.o
+ .debug_aranges
+                0x000005d0       0x60 ./sdk/peripherals/src/hw_timer1.o
+ .debug_aranges
+                0x00000630      0x180 ./sdk/peripherals/src/hw_uart.o
+ .debug_aranges
+                0x000007b0       0x40 ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_aranges
+                0x000007f0       0x50 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_aranges
+                0x00000840       0x48 ./sdk/peripherals/src/hw_wkup.o
+ .debug_aranges
+                0x00000888       0x60 ./sdk/peripherals/src/sys_tcs.o
+ .debug_aranges
+                0x000008e8       0xa8 ./sdk/memory/src/qspi_automode.o
+
+.debug_ranges   0x00000000      0x8f8
+ .debug_ranges  0x00000000       0x10 ./startup/config.o
+ .debug_ranges  0x00000010       0x60 ./startup/system_ARMCM0.o
+ .debug_ranges  0x00000070       0x20 ./src/crc16.o
+ .debug_ranges  0x00000090       0x88 ./src/flash.o
+ .debug_ranges  0x00000118      0x1a8 ./src/main.o
+ .debug_ranges  0x000002c0       0xb0 ./sdk/peripherals/src/hw_cpm.o
+ .debug_ranges  0x00000370       0x38 ./sdk/peripherals/src/hw_dma.o
+ .debug_ranges  0x000003a8       0x50 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_ranges  0x000003f8       0x70 ./sdk/peripherals/src/hw_gpio.o
+ .debug_ranges  0x00000468       0x10 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_ranges  0x00000478       0xb0 ./sdk/peripherals/src/hw_otpc.o
+ .debug_ranges  0x00000528       0x80 ./sdk/peripherals/src/hw_qspi.o
+ .debug_ranges  0x000005a8       0x50 ./sdk/peripherals/src/hw_timer1.o
+ .debug_ranges  0x000005f8      0x170 ./sdk/peripherals/src/hw_uart.o
+ .debug_ranges  0x00000768       0x30 ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_ranges  0x00000798       0x40 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_ranges  0x000007d8       0x38 ./sdk/peripherals/src/hw_wkup.o
+ .debug_ranges  0x00000810       0x50 ./sdk/peripherals/src/sys_tcs.o
+ .debug_ranges  0x00000860       0x98 ./sdk/memory/src/qspi_automode.o
+
+.debug_macro    0x00000000    0x10969
+ .debug_macro   0x00000000      0x100 ./startup/config.o
+ .debug_macro   0x00000100      0x820 ./startup/config.o
+ .debug_macro   0x00000920      0x148 ./startup/config.o
+ .debug_macro   0x00000a68       0xb2 ./startup/config.o
+ .debug_macro   0x00000b1a      0x38a ./startup/config.o
+ .debug_macro   0x00000ea4       0x10 ./startup/config.o
+ .debug_macro   0x00000eb4      0x288 ./startup/config.o
+ .debug_macro   0x0000113c       0x22 ./startup/config.o
+ .debug_macro   0x0000115e      0x16d ./startup/config.o
+ .debug_macro   0x000012cb       0x22 ./startup/config.o
+ .debug_macro   0x000012ed       0x3a ./startup/config.o
+ .debug_macro   0x00001327       0x22 ./startup/config.o
+ .debug_macro   0x00001349       0x44 ./startup/config.o
+ .debug_macro   0x0000138d       0x1c ./startup/config.o
+ .debug_macro   0x000013a9      0x1f7 ./startup/config.o
+ .debug_macro   0x000015a0       0x1f ./startup/config.o
+ .debug_macro   0x000015bf      0x22d ./startup/config.o
+ .debug_macro   0x000017ec       0x19 ./startup/config.o
+ .debug_macro   0x00001805     0xc21a ./startup/config.o
+ .debug_macro   0x0000da1f      0x294 ./startup/config.o
+ .debug_macro   0x0000dcb3       0x34 ./startup/config.o
+ .debug_macro   0x0000dce7      0x276 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000df5d       0x58 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000dfb5       0x35 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000dfea       0x9c ./startup/system_ARMCM0.o
+ .debug_macro   0x0000e086       0x16 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000e09c       0x4a ./startup/system_ARMCM0.o
+ .debug_macro   0x0000e0e6       0x97 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000e17d      0x27a ./startup/system_ARMCM0.o
+ .debug_macro   0x0000e3f7       0xf6 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000e4ed       0x10 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000e4fd       0x52 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000e54f       0x16 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000e565       0x43 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000e5a8      0x180 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000e728       0x10 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000e738       0x22 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000e75a       0xbd ./startup/system_ARMCM0.o
+ .debug_macro   0x0000e817       0x16 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000e82d      0x196 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000e9c3       0x40 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000ea03       0x94 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000ea97       0x22 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000eab9       0x10 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000eac9       0x28 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000eaf1       0x16 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000eb07       0x35 ./startup/system_ARMCM0.o
+ .debug_macro   0x0000eb3c       0x93 ./src/crc16.o
+ .debug_macro   0x0000ebcf      0x1ec ./src/flash.o
+ .debug_macro   0x0000edbb       0x10 ./src/flash.o
+ .debug_macro   0x0000edcb       0x1c ./src/flash.o
+ .debug_macro   0x0000ede7      0x35c ./src/main.o
+ .debug_macro   0x0000f143       0x50 ./src/main.o
+ .debug_macro   0x0000f193       0x34 ./src/main.o
+ .debug_macro   0x0000f1c7       0x2e ./src/main.o
+ .debug_macro   0x0000f1f5       0x16 ./src/main.o
+ .debug_macro   0x0000f20b       0x16 ./src/main.o
+ .debug_macro   0x0000f221       0x29 ./src/main.o
+ .debug_macro   0x0000f24a       0x16 ./src/main.o
+ .debug_macro   0x0000f260       0x34 ./src/main.o
+ .debug_macro   0x0000f294      0x115 ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x0000f3a9       0x3a ./sdk/peripherals/src/hw_cpm.o
+ .debug_macro   0x0000f3e3      0x126 ./sdk/peripherals/src/hw_dma.o
+ .debug_macro   0x0000f509       0x4a ./sdk/peripherals/src/hw_dma.o
+ .debug_macro   0x0000f553      0x1f3 ./sdk/peripherals/src/hw_gpadc.o
+ .debug_macro   0x0000f746      0x141 ./sdk/peripherals/src/hw_gpio.o
+ .debug_macro   0x0000f887      0x1f3 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x0000fa7a       0x10 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_macro   0x0000fa8a      0x128 ./sdk/peripherals/src/hw_otpc.o
+ .debug_macro   0x0000fbb2       0x8e ./sdk/peripherals/src/hw_otpc.o
+ .debug_macro   0x0000fc40      0x11d ./sdk/peripherals/src/hw_qspi.o
+ .debug_macro   0x0000fd5d      0x1d0 ./sdk/peripherals/src/hw_timer1.o
+ .debug_macro   0x0000ff2d      0x13e ./sdk/peripherals/src/hw_uart.o
+ .debug_macro   0x0001006b      0x11b ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_macro   0x00010186      0x1e5 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_macro   0x0001036b      0x1f5 ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x00010560       0x1c ./sdk/peripherals/src/hw_wkup.o
+ .debug_macro   0x0001057c      0x177 ./sdk/peripherals/src/sys_tcs.o
+ .debug_macro   0x000106f3      0x276 ./sdk/memory/src/qspi_automode.o
+
+.debug_line     0x00000000     0x8d7b
+ .debug_line    0x00000000      0x47c ./startup/config.o
+ .debug_line    0x0000047c      0x10e ./startup/startup_ARMCM0.o
+ .debug_line    0x0000058a      0x933 ./startup/system_ARMCM0.o
+ .debug_line    0x00000ebd       0x81 ./startup/vector_table.o
+ .debug_line    0x00000f3e      0x3ec ./src/crc16.o
+ .debug_line    0x0000132a      0x857 ./src/flash.o
+ .debug_line    0x00001b81      0xd25 ./src/main.o
+ .debug_line    0x000028a6      0x721 ./sdk/peripherals/src/hw_cpm.o
+ .debug_line    0x00002fc7      0x5a3 ./sdk/peripherals/src/hw_dma.o
+ .debug_line    0x0000356a      0x80e ./sdk/peripherals/src/hw_gpadc.o
+ .debug_line    0x00003d78      0x5b9 ./sdk/peripherals/src/hw_gpio.o
+ .debug_line    0x00004331      0x56b ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_line    0x0000489c      0xab3 ./sdk/peripherals/src/hw_otpc.o
+ .debug_line    0x0000534f      0x6c8 ./sdk/peripherals/src/hw_qspi.o
+ .debug_line    0x00005a17      0x6b6 ./sdk/peripherals/src/hw_timer1.o
+ .debug_line    0x000060cd      0xda0 ./sdk/peripherals/src/hw_uart.o
+ .debug_line    0x00006e6d      0x51a ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_line    0x00007387      0x5ca ./sdk/peripherals/src/hw_watchdog.o
+ .debug_line    0x00007951      0x64f ./sdk/peripherals/src/hw_wkup.o
+ .debug_line    0x00007fa0      0x5da ./sdk/peripherals/src/sys_tcs.o
+ .debug_line    0x0000857a      0x801 ./sdk/memory/src/qspi_automode.o
+
+.debug_str      0x00000000    0x69daf
+ .debug_str     0x00000000    0x5d59b ./startup/config.o
+                              0x5d77a (size before relaxing)
+ .debug_str     0x0005d59b     0x4965 ./startup/system_ARMCM0.o
+                              0x62098 (size before relaxing)
+ .debug_str     0x00061f00       0x40 ./src/crc16.o
+                               0x6606 (size before relaxing)
+ .debug_str     0x00061f40      0x4a5 ./src/flash.o
+                              0x5fdbf (size before relaxing)
+ .debug_str     0x000623e5     0x25a3 ./src/main.o
+                              0x635e4 (size before relaxing)
+ .debug_str     0x00064988      0xe8a ./sdk/peripherals/src/hw_cpm.o
+                              0x5ea50 (size before relaxing)
+ .debug_str     0x00065812      0xad4 ./sdk/peripherals/src/hw_dma.o
+                              0x5e519 (size before relaxing)
+ .debug_str     0x000662e6      0x61e ./sdk/peripherals/src/hw_gpadc.o
+                              0x60b08 (size before relaxing)
+ .debug_str     0x00066904      0x509 ./sdk/peripherals/src/hw_gpio.o
+                              0x5e2a5 (size before relaxing)
+ .debug_str     0x00066e0d       0xf0 ./sdk/peripherals/src/hw_hard_fault.o
+                              0x604d5 (size before relaxing)
+ .debug_str     0x00066efd      0x450 ./sdk/peripherals/src/hw_otpc.o
+                              0x5e2f8 (size before relaxing)
+ .debug_str     0x0006734d      0x779 ./sdk/peripherals/src/hw_qspi.o
+                              0x5e360 (size before relaxing)
+ .debug_str     0x00067ac6      0x258 ./sdk/peripherals/src/hw_timer1.o
+                              0x60fe2 (size before relaxing)
+ .debug_str     0x00067d1e      0xc27 ./sdk/peripherals/src/hw_uart.o
+                              0x5ef0d (size before relaxing)
+ .debug_str     0x00068945      0x5f9 ./sdk/peripherals/src/hw_usb_charger.o
+                              0x5e46f (size before relaxing)
+ .debug_str     0x00068f3e      0x131 ./sdk/peripherals/src/hw_watchdog.o
+                              0x6065d (size before relaxing)
+ .debug_str     0x0006906f      0x4c8 ./sdk/peripherals/src/hw_wkup.o
+                              0x60da9 (size before relaxing)
+ .debug_str     0x00069537      0x399 ./sdk/peripherals/src/sys_tcs.o
+                              0x5dd8a (size before relaxing)
+ .debug_str     0x000698d0      0x4df ./sdk/memory/src/qspi_automode.o
+                              0x60f8c (size before relaxing)
+
+.debug_frame    0x00000000     0x18c8
+ .debug_frame   0x00000000       0x34 ./startup/config.o
+ .debug_frame   0x00000034       0xcc ./startup/system_ARMCM0.o
+ .debug_frame   0x00000100       0x60 ./src/crc16.o
+ .debug_frame   0x00000160      0x194 ./src/flash.o
+ .debug_frame   0x000002f4      0x2ec ./src/main.o
+ .debug_frame   0x000005e0      0x190 ./sdk/peripherals/src/hw_cpm.o
+ .debug_frame   0x00000770       0xb4 ./sdk/peripherals/src/hw_dma.o
+ .debug_frame   0x00000824       0xdc ./sdk/peripherals/src/hw_gpadc.o
+ .debug_frame   0x00000900      0x150 ./sdk/peripherals/src/hw_gpio.o
+ .debug_frame   0x00000a50       0x28 ./sdk/peripherals/src/hw_hard_fault.o
+ .debug_frame   0x00000a78      0x254 ./sdk/peripherals/src/hw_otpc.o
+ .debug_frame   0x00000ccc      0x198 ./sdk/peripherals/src/hw_qspi.o
+ .debug_frame   0x00000e64       0xc8 ./sdk/peripherals/src/hw_timer1.o
+ .debug_frame   0x00000f2c      0x414 ./sdk/peripherals/src/hw_uart.o
+ .debug_frame   0x00001340       0x60 ./sdk/peripherals/src/hw_usb_charger.o
+ .debug_frame   0x000013a0       0x94 ./sdk/peripherals/src/hw_watchdog.o
+ .debug_frame   0x00001434       0xa0 ./sdk/peripherals/src/hw_wkup.o
+ .debug_frame   0x000014d4       0xf0 ./sdk/peripherals/src/sys_tcs.o
+ .debug_frame   0x000015c4      0x1d4 ./sdk/memory/src/qspi_automode.o
+ .debug_frame   0x00001798       0x20 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/armv6-m\libgcc.a(_udivsi3.o)
+ .debug_frame   0x000017b8       0x28 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x000017e0       0x2c d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-init.o)
+ .debug_frame   0x0000180c       0x2c d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcmp.o)
+ .debug_frame   0x00001838       0x28 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memcpy.o)
+ .debug_frame   0x00001860       0x28 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memmove.o)
+ .debug_frame   0x00001888       0x20 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x000018a8       0x20 d:/program files (x86)/dialog semiconductor/smartsnippets/cdt/other/arm-none-eabi/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv6-m\libnosys.a(_exit.o)
