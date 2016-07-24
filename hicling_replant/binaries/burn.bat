@@ -1,0 +1,1 @@
+cli_programmer.exe  --prod-id DA14681-00    gdbserver  write_qspi_exec ..\projects\dk_apps\features\rain_flower\DA14681-00-Debug_QSPI\rain_flower.bin

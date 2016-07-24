@@ -1,3 +1,4 @@
+#include <btle_api.h>
 /**
  ****************************************************************************************
  *
@@ -34,7 +35,7 @@
 #include "dis.h"
 #include "scps.h"
 #include "stdio.h"
-#include "ble_hal.h"
+#include "ble_cus.h"
 
 /*
  *

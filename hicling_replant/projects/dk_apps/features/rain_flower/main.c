@@ -1,3 +1,4 @@
+#include <btle_api.h>
 /**
  ****************************************************************************************
  *
@@ -30,7 +31,7 @@
 #include "platform_devices.h"
 #include "ble_storage.h"
 #include "clingtask.h"
-#include "ble_hal.h"
+#include "pinmap.h"
 /* Task priorities */
 #define mainBLE_PERIPHERAL_TASK_PRIORITY              ( OS_TASK_PRIORITY_NORMAL )
 #define maincling_FSM_TASK_PRIORITY              ( OS_TASK_PRIORITY_NORMAL )
@@ -83,11 +84,11 @@ static void periph_init(void)
 #               error "Unknown value for dg_configBLACK_ORCA_MB_REV!"
 #       endif
 
-
-        hw_gpio_set_pin_function(UART_TX_PORT, UART_TX_PIN, HW_GPIO_MODE_OUTPUT,
-                        HW_GPIO_FUNC_UART_TX);
-        hw_gpio_set_pin_function(UART_RX_PORT, UART_RX_PIN, HW_GPIO_MODE_INPUT,
-                        HW_GPIO_FUNC_UART_RX);
+        pin_map_init();
+//        hw_gpio_set_pin_function(UART_TX_PORT, UART_TX_PIN, HW_GPIO_MODE_OUTPUT,
+//                        HW_GPIO_FUNC_UART_TX);
+//        hw_gpio_set_pin_function(UART_RX_PORT, UART_RX_PIN, HW_GPIO_MODE_INPUT,
+//                        HW_GPIO_FUNC_UART_RX);
 }
 
 /**

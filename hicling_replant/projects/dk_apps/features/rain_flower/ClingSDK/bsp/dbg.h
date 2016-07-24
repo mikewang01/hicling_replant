@@ -38,7 +38,6 @@ typedef struct tagDEBUG_CTX {
                                 cling.time.local.hour,\
                                 cling.time.local.minute,\
                                 cling.time.local.second, ##__VA_ARGS__);\
-                                fflush(stdout);\
 	}while(0)
 
 #define UTC_DEBUG_LOG(...) \

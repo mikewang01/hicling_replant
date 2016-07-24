@@ -69,8 +69,8 @@
 #define dg_configBATTERY_PRECHARGE_CURRENT      20      // 2.1mA
 #define dg_configBATTERY_CHARGE_NTC             1       // disabled
 
-#define dg_configUSE_USB                        0
-#define dg_configUSE_USB_CHARGER                0
+#define dg_configUSE_USB                        1
+#define dg_configUSE_USB_CHARGER                1
 #define dg_configALLOW_CHARGING_NOT_ENUM        1
 
 #define dg_configUSE_ProDK                      (1)
@@ -95,8 +95,11 @@
 #define dg_configNVMS_VES                       0
 #define dg_configGPADC_ADAPTER                  1
 
+#define dg_configUSE_HW_I2C                     1
+#define dg_configI2C_ADAPTER                    1
 
-
+#define dg_configUSE_HW_SPI                     1
+#define dg_configSPI_ADAPTER                    1
 /* Include bsp default values */
 #include "bsp_defaults.h"
 

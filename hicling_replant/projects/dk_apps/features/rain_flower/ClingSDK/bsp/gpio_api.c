@@ -9,7 +9,7 @@
  ******************************************************************************/
 
 #include "main.h"
-
+#include "pinmap.h"
 void GPIO_system_powerup()
 {
 #ifndef _CLING_PC_SIMULATION_	
@@ -32,20 +32,16 @@ void GPIO_system_powerdown()
 #endif
 }
 
+/*
+ * this procedure is gonna be done in system initiate process before schedule triggered
+ * */
 void GPIO_api_init()
 {
 #ifndef _CLING_PC_SIMULATION_
-	
-//	GPIO_ConfigurePin(SPI_GPIO_PORT, GPIO_SPI_CS_NFLASH, OUTPUT, PID_SPI_EN, true);
-//	GPIO_ConfigurePin(SPI_GPIO_PORT, SPI_CLK_PIN, OUTPUT, PID_SPI_CLK, false);
-//	GPIO_ConfigurePin(SPI_GPIO_PORT, SPI_DO_PIN, OUTPUT, PID_SPI_DO, false);
-//	GPIO_ConfigurePin(SPI_GPIO_PORT, SPI_DI_PIN, INPUT, PID_SPI_DI, false);
-//
-// GPIO_ConfigurePin(GPIO_PORT_2, GPIO_SPI_CS_ACC, OUTPUT, PID_GPIO, TRUE);
-// GPIO_ConfigurePin(GPIO_PORT_2, GPIO_TOUCH_INT, INPUT, PID_GPIO, false);
-	
+
 #endif
 }
+
 
 void GPIO_interrupt_enable()
 {

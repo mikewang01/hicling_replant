@@ -121,10 +121,10 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/sdk/peripherals/include}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/sdk/memory/include}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/rain_flower}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/rain_flower/ClingHal}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/rain_flower/ClingSDK}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/rain_flower/ClingSDK/bsp}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/rain_flower/ClingSDK/task}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/rain_flower/ClingHal/include}&quot;"/>
 								</option>
 								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.defs.1294310767" name="Defined symbols (-D)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.defs" useByScannerDiscovery="false" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="dg_configBLACK_ORCA_IC_REV=BLACK_ORCA_IC_REV_A"/>
@@ -199,7 +199,7 @@
 					</folderInfo>
 					<fileInfo id="ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.76586611.192963263.212369110" name="ble_ancs_c.h" rcbsApplicability="disable" resourcePath="ClingSDK/bsp/ble_ancs_c.h" toolsToInvoke=""/>
 					<sourceEntries>
-						<entry excluding="ClingSDK/bsp/Watchdog.c|ClingSDK/bsp/ble_ancs_c.h|projects/dk_apps/example_apps" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="projects/dk_apps/example_apps|ClingSDK/bsp/Watchdog.c|ClingSDK/bsp/ble_ancs_c.h" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
